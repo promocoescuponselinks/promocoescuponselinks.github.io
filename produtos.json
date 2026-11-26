@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://shopee.com.br/m/cupom-de-desconto",
+    "titulo": "NOVO CUPOM SHOPEE",
+    "loja": "Shopee",
+    "preco": 20,
+    "precoAntigo": 89,
+    "cupom": "3SQU3NT4SH0",
+    "link": "https://shopee.com.br/m/cupom-de-desconto?mmp_pid=an_18328560568&utm_source=an_18328560568&utm_medium=affiliates&utm_campaign=bot",
+    "imagem": "img/f3ae8291a7efea57.jpg",
+    "data": "2026-11-26T23:08:52.717Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-lattafa-asad-elixir-edp-100ml/up/mlbu3864141470",
+    "titulo": "INSPIRADO NO HUGO BOTTLED ABSOLU",
+    "loja": "Mercado Livre",
+    "preco": 30,
+    "precoAntigo": 419,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-lattafa-asad-elixir-edp-100ml/up/MLBU3864141470?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e1441fe55f6f7d61.jpg",
+    "data": "2026-11-26T23:08:43.960Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/whey-concentrado-750g-growth-supplements-variados-sabores-baunilha/p/mlb78932687",
+    "titulo": "WHEY SABOR BAUNILHA",
+    "loja": "Mercado Livre",
+    "preco": 122,
+    "precoAntigo": 204,
+    "cupom": "ENERGIAMELI",
+    "link": "https://www.mercadolivre.com.br/whey-concentrado-750g-growth-supplements-variados-sabores-baunilha/p/MLB78932687?pdp_filters=item_id%3AMLB5188883595&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/3f44b4f7c2072741.jpg",
+    "data": "2026-11-26T23:07:59.761Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/perfume-arabe-lattafa-opulent-dubai-eau-de-parfum-100-ml/p/mlb51342806",
     "titulo": "MENOR VALOR NESSE, inspirado no god of fire",
     "loja": "Mercado Livre",
