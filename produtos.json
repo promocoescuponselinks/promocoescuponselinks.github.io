@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.mercadolivre.com.br/grand-theft-auto-vi-xbox-series-xs/p/mlb82931681",
+    "titulo": "GTA VI NO XBOX: VICE CITY TE ESPERA",
+    "loja": "Mercado Livre",
+    "preco": 35.9,
+    "precoAntigo": 449.9,
+    "cupom": "SOHOJE",
+    "link": "https://www.mercadolivre.com.br/grand-theft-auto-vi-xbox-series-xs/p/MLB82931681?pdp_filters=item_id%3AMLB8028630750&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/4a0357ae857bb5f5.jpg",
+    "data": "2026-11-26T23:54:01.696Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/whey-fort-3w-cookies-cream-900g-vitafor/p/mlb26683686",
+    "titulo": "BAIXOU DEMAIS O WHEY DA VITAFOR",
+    "loja": "Mercado Livre",
+    "preco": 147,
+    "precoAntigo": 373,
+    "cupom": "SOHOJE",
+    "link": "https://www.mercadolivre.com.br/whey-fort-3w-cookies-cream-900g-vitafor/p/MLB26683686?pdp_filters=item_id%3AMLB5120918932&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/a76d22c8ec568af3.jpg",
+    "data": "2026-11-26T23:53:32.371Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/air-fryer-kitchen-art-16l-4-em-1-espeto-rotisserie-kaf16a/p/mlb46559895",
+    "titulo": "O FRANGO GANHOU UM SPA PARTICULAR",
+    "loja": "Mercado Livre",
+    "preco": null,
+    "precoAntigo": null,
+    "cupom": "SOHOJE",
+    "link": "https://www.mercadolivre.com.br/air-fryer-kitchen-art-16l-4-em-1-espeto-rotisserie-kaf16a/p/MLB46559895?pdp_filters=item_id%3AMLB5496494200&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/6fa09f988fe1a24e.jpg",
+    "data": "2026-11-26T23:53:30.732Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-16-litros-paf16c/up/mlbu3846525868",
     "titulo": "O QUE SERIA DE MIM SEM MINHA AIR FRYER",
     "loja": "Mercado Livre",
@@ -3265,38 +3298,5 @@
     "link": "https://www.amazon.com.br/dp/B0FYQ5TQDL?tag=achadin022061-20",
     "imagem": "img/84fb1f407477a132.jpg",
     "data": "2026-11-26T13:45:37.698Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/uber-gift-card-r100-digital/p/mlb72638652",
-    "titulo": "GIFT CARD DA UBER SEMPRE VALE MUITO A PENA",
-    "loja": "Mercado Livre",
-    "preco": 100,
-    "precoAntigo": 250,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/uber-gift-card-r100-digital/p/MLB72638652?pdp_filters=item_id%3AMLB6987853030&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/2c690995e792316d.jpg",
-    "data": "2026-11-26T13:44:09.736Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0flkgnyj8",
-    "titulo": "MENOR PREÇO NO MONITOR 144HZ IPS",
-    "loja": "Amazon",
-    "preco": 399,
-    "precoAntigo": 699,
-    "cupom": "BLACK75OFF",
-    "link": "https://www.amazon.com.br/dp/B0FLKGNYJ8?tag=achadin022061-20",
-    "imagem": "img/73d1fad198f93b40.jpg",
-    "data": "2026-11-26T13:42:37.351Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0fvy9md19",
-    "titulo": "TV POR MENOS DE 730 CONTO",
-    "loja": "Amazon",
-    "preco": 725,
-    "precoAntigo": 1299,
-    "cupom": "BLACK75OFF",
-    "link": "https://www.amazon.com.br/dp/B0FVY9MD19?tag=achadin022061-20",
-    "imagem": "img/8b70390661bb3790.jpg",
-    "data": "2026-11-26T13:41:55.008Z"
   }
 ]
