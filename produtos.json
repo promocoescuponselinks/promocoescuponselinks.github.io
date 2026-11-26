@@ -1,5 +1,93 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b07t3gx8tk",
+    "titulo": "NÃO ME CONTROLO COM UMA DESSA NA MINHA FRENTE",
+    "loja": "Amazon",
+    "preco": null,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B07T3GX8TK?tag=achadin022061-20",
+    "imagem": "img/571ff3f3dd0aa6bf.jpg",
+    "data": "2026-11-26T23:20:58.161Z"
+  },
+  {
+    "id": "https://shopee.com.br/m/especial-black-friday",
+    "titulo": "A MELHOR AMIGA DE QUEM NÃO TEM AMIGOS 👍",
+    "loja": "Shopee",
+    "preco": null,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://shopee.com.br/m/especial-black-friday?mmp_pid=an_18328560568&utm_source=an_18328560568&utm_medium=affiliates&utm_campaign=bot",
+    "imagem": "img/0be5a585f3373885.jpg",
+    "data": "2026-11-26T23:20:21.680Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-qaed-al-fursan-unlimited-edp-90ml/p/mlb78182407",
+    "titulo": "CORREEEEE, MENOR PREÇO NESSE ÁRABE",
+    "loja": "Mercado Livre",
+    "preco": 84,
+    "precoAntigo": 219,
+    "cupom": "NDCNHS78",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-qaed-al-fursan-unlimited-edp-90ml/p/MLB78182407?pdp_filters=item_id%3AMLB7511286666&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/c35dd6c8560da55e.jpg",
+    "data": "2026-11-26T23:17:12.198Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-thahaani-100ml/p/mlb74481609",
+    "titulo": "CORRE, ÁRABE NO MENOR VALOR",
+    "loja": "Mercado Livre",
+    "preco": 30,
+    "precoAntigo": 198,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-thahaani-100ml/p/MLB74481609?pdp_filters=item_id%3AMLB7107534906&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/cce9736e58da89eb.jpg",
+    "data": "2026-11-26T23:15:43.547Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-masculino-arabe-salvo-eau-de-parfum-alhmabra-100ml/p/mlb63636441",
+    "titulo": "CORREEE, DUPE DO DIOR POR 100 CONTO",
+    "loja": "Mercado Livre",
+    "preco": 104,
+    "precoAntigo": 277,
+    "cupom": "NDCNHS78",
+    "link": "https://www.mercadolivre.com.br/perfume-masculino-arabe-salvo-eau-de-parfum-alhmabra-100ml/p/MLB63636441?pdp_filters=item_id%3AMLB6487567042&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/53b60fba4ddbfbf1.jpg",
+    "data": "2026-11-26T23:15:42.124Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-sakeena-edp-feminino-100ml/p/mlb80176290",
+    "titulo": "ESSE É CHEIROSO DEMAIS MENINAS",
+    "loja": "Mercado Livre",
+    "preco": 30,
+    "precoAntigo": 249,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-sakeena-edp-feminino-100ml/p/MLB80176290?pdp_filters=item_id%3AMLB7741045436&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e48a6861a0b23892.jpg",
+    "data": "2026-11-26T23:14:57.078Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-1473758753-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original-_jm",
+    "titulo": "CORRE MENOS DE 10 CONTO AS CUECAS DA LUPO",
+    "loja": "Mercado Livre",
+    "preco": 95,
+    "precoAntigo": 399,
+    "cupom": "NDCNHS78",
+    "link": "https://produto.mercadolivre.com.br/MLB-1473758753-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/830b6a88587990f0.jpg",
+    "data": "2026-11-26T23:14:12.212Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/wella-professionals-invigo-nutri-enrich-kit-shampoo-cond/up/mlbu4921847029",
+    "titulo": "CORREEEEEE VAI ACABAR MUITO RÁPIDO",
+    "loja": "Mercado Livre",
+    "preco": 154,
+    "precoAntigo": 276,
+    "cupom": "NDCNHS78",
+    "link": "https://www.mercadolivre.com.br/wella-professionals-invigo-nutri-enrich-kit-shampoo-cond/up/MLBU4921847029?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/61b829f0b26e3bf8.jpg",
+    "data": "2026-11-26T23:13:26.843Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/notebook-acer-153-ips-processador-intel-core-5-120u-substituto-do-core-i5-memoria-8gb-ddr5-ssd-256gb-nvme-pcie-40-2-usb-c-wifi-6-bluetooth-cinza-aspire-go-15-ag15-51p-58fy/p/mlb80110561",
     "titulo": "BAIXOU ESSE ASPIRE GO NO PRECINHO",
     "loja": "Mercado Livre",
@@ -3210,49 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/cooktop-5-bocas-a-gas-atlas-agile-up-mega-chama-preto/p/MLB50829128?pdp_filters=item_id%3AMLB4082731117&matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/b12a91c4a9d86931.jpg",
     "data": "2026-11-26T13:14:54.300Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b07xs8jm94",
-    "titulo": "AQUI MEU FINAL DE SEMANA TA FEITO",
-    "loja": "Amazon",
-    "preco": null,
-    "precoAntigo": null,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B07XS8JM94?tag=achadin022061-20",
-    "imagem": "img/10820294733cceaa.jpg",
-    "data": "2026-11-26T13:14:52.043Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/power-bank-20000mah-carregador-portatil-turbo-rapido-225w-display-digital-preto/p/mlb66497052",
-    "titulo": "CORRE PREÇÃO NESSE POWER BANK 20K",
-    "loja": "Mercado Livre",
-    "preco": 78,
-    "precoAntigo": 213,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/power-bank-20000mah-carregador-portatil-turbo-rapido-225w-display-digital-preto/p/MLB66497052?pdp_filters=item_id%3AMLB4526683881&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/5b2ed3e940360e6b.jpg",
-    "data": "2026-11-26T13:13:22.949Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0fqhgm3b1",
-    "titulo": "ATENÇÃO RICOS",
-    "loja": "Amazon",
-    "preco": 10669,
-    "precoAntigo": 14999,
-    "cupom": "IMPERDIVEL25",
-    "link": "https://www.amazon.com.br/dp/B0FQHGM3B1?tag=achadin022061-20",
-    "imagem": "img/b02b06f966952890.jpg",
-    "data": "2026-11-26T13:11:54.938Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-caixa-acoplada-privada-completo-cor-branco/p/mlb24236258",
-    "titulo": "QUE PROMO MERDA",
-    "loja": "Mercado Livre",
-    "preco": 455,
-    "precoAntigo": 994,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-caixa-acoplada-privada-completo-cor-branco/p/MLB24236258?pdp_filters=item_id%3AMLB3366933943&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/8a368fe1f552faea.jpg",
-    "data": "2026-11-26T13:11:53.762Z"
   }
 ]
