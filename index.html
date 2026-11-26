@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Achadinhos do Dia — ofertas selecionadas</title>
+  <meta name="description" content="As melhores ofertas da Amazon, Mercado Livre, Shopee e outras lojas, atualizadas todo dia.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="wrap topo-in">
+      <a class="marca" href="./">🔥 <b>Achadinhos</b> do Dia</a>
+      <a class="btn-zap" id="link-grupo" href="#" target="_blank" rel="noopener">Seguir canal no WhatsApp</a>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="busca">
+      <input id="q" type="search" placeholder="Buscar oferta (ex.: fone, air fryer, tênis)…" autocomplete="off">
+      <div id="filtros" class="filtros"></div>
+    </section>
+
+    <p id="contador" class="contador"></p>
+    <section id="grade" class="grade" aria-live="polite"></section>
+    <p id="vazio" class="vazio" hidden>Nenhuma oferta encontrada.</p>
+  </main>
+
+  <footer class="rodape wrap">
+    <p>Preços e disponibilidade podem mudar a qualquer momento — confira na loja antes de comprar.</p>
+    <p>Este site participa de programas de afiliados: podemos receber comissão pelas compras feitas pelos links, sem custo extra para você.</p>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+:root {
+  --bg: #f6f6f8; --card: #fff; --txt: #1d1d22; --sub: #6b6b76;
+  --cor: #ff4d2e; --cor2: #e23b1d; --zap: #1fa855; --borda: #e6e6ea;
+}
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--txt); }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+
+.topo { background: #fff; border-bottom: 1px solid var(--borda); position: sticky; top: 0; z-index: 5; }
+.topo-in { display: flex; align-items: center; justify-content: space-between; gap: 12px; height: 60px; }
+.marca { font-size: 1.2rem; color: var(--txt); text-decoration: none; }
+.marca b { color: var(--cor); }
+.btn-zap { background: var(--zap); color: #fff; text-decoration: none; padding: 9px 14px; border-radius: 999px; font-weight: 600; font-size: .9rem; white-space: nowrap; }
+
+.busca { padding: 20px 0 8px; }
+#q { width: 100%; padding: 14px 16px; font-size: 1rem; border: 1px solid var(--borda); border-radius: 12px; background: #fff; }
+#q:focus { outline: 2px solid var(--cor); border-color: transparent; }
+.filtros { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.filtros button { border: 1px solid var(--borda); background: #fff; padding: 7px 14px; border-radius: 999px; cursor: pointer; font-size: .9rem; }
+.filtros button.ativo { background: var(--txt); color: #fff; border-color: var(--txt); }
+.contador { color: var(--sub); font-size: .9rem; margin: 8px 0 12px; }
+
+.grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; padding-bottom: 32px; }
+.card { background: var(--card); border: 1px solid var(--borda); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; }
+.card-img { position: relative; aspect-ratio: 1; background: #fff; display: grid; place-items: center; }
+.card-img img { width: 100%; height: 100%; object-fit: contain; padding: 12px; }
+.sem-img { font-size: 3rem; }
+.selo { position: absolute; top: 10px; left: 10px; background: var(--cor); color: #fff; font-weight: 700; font-size: .8rem; padding: 4px 8px; border-radius: 6px; }
+.card-corpo { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.card h2 { font-size: .95rem; font-weight: 500; line-height: 1.3; margin: 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.loja { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--sub); }
+.loja-amazon { color: #c77700; } .loja-mercado-livre { color: #2d3277; } .loja-shopee { color: #ee4d2d; } .loja-magalu { color: #0086ff; } .loja-aliexpress { color: #e43225; }
+.precos { display: flex; align-items: baseline; gap: 8px; margin-top: auto; }
+.precos s { color: var(--sub); font-size: .85rem; }
+.precos strong { font-size: 1.25rem; color: var(--txt); }
+.cupom { margin: 0; font-size: .85rem; } .cupom code { background: #fff3cd; padding: 2px 6px; border-radius: 4px; }
+.btn { display: block; text-align: center; background: var(--cor); color: #fff; text-decoration: none; font-weight: 600; padding: 10px; border-radius: 10px; }
+.btn:hover { background: var(--cor2); }
+time { font-size: .75rem; color: var(--sub); text-align: center; }
+.vazio { text-align: center; color: var(--sub); padding: 40px 0; }
+.rodape { color: var(--sub); font-size: .8rem; padding: 24px 16px 40px; border-top: 1px solid var(--borda); }
+
+@media (max-width: 520px) {
+  .grade { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .btn-zap { font-size: .78rem; padding: 8px 10px; }
+  .precos strong { font-size: 1.05rem; }
+}
