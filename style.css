@@ -129,3 +129,45 @@ time { font-size: .75rem; color: var(--sub); text-align: center; }
 .topo-btns { display: flex; gap: 6px; }
 .btn-tg { background: #229ed9; color: #fff; text-decoration: none; padding: 9px 14px; border-radius: 999px; font-weight: 600; font-size: .9rem; white-space: nowrap; }
 @media (max-width: 520px) { .btn-tg { font-size: .78rem; padding: 8px 10px; } }
+
+/* ================= TEMA ESCURO ================= */
+:root { color-scheme: light; }
+:root[data-tema="escuro"] {
+  color-scheme: dark;
+  --bg: #111115; --card: #1b1b21; --txt: #ececf1; --sub: #a3a3b0; --borda: #2d2d36;
+  --cor: #ff6a4d; --cor2: #ff5533;
+}
+[data-tema="escuro"] .topo { background: #17171c; }
+[data-tema="escuro"] #q, [data-tema="escuro"] .filtros button,
+[data-tema="escuro"] .mini-cupom, [data-tema="escuro"] .card-resenha,
+[data-tema="escuro"] .produto-box, [data-tema="escuro"] .cupom-grande,
+[data-tema="escuro"] .resenha table { background: var(--card); color: var(--txt); }
+[data-tema="escuro"] .filtros button.ativo { background: var(--txt); color: #111115; border-color: var(--txt); }
+/* fotos dos produtos têm fundo branco: mantém um "papel" claro e suave atrás delas */
+[data-tema="escuro"] .card-img, [data-tema="escuro"] .pb-img, [data-tema="escuro"] .card-resenha img { background: #f2f2f4; }
+[data-tema="escuro"] .pb-img, [data-tema="escuro"] .card-resenha img { border-radius: 10px; }
+[data-tema="escuro"] .menu a[aria-current] { background: #3a1f1a; color: #ff8a70; }
+[data-tema="escuro"] .loja-mercado-livre, [data-tema="escuro"] .mini-loja { color: #9fa6ff; }
+[data-tema="escuro"] .loja-amazon { color: #ffb347; }
+/* cupom: amarelo continua chamando atenção, mas sem ofuscar */
+[data-tema="escuro"] .ticket-cod { background: #2b2410; border-color: #e0a400; color: #fff3c4; }
+[data-tema="escuro"] .ticket-cod:hover { background: #3a3014; }
+[data-tema="escuro"] .ticket-rot { color: #ffc94d; }
+[data-tema="escuro"] .ticket-cod.copiado { background: #12301e; border-color: var(--zap); }
+[data-tema="escuro"] .card.tem-cupom { border-color: #8a6a10; box-shadow: 0 0 0 1px #8a6a10 inset; }
+[data-tema="escuro"] .chip-cupom { background: #2b2410 !important; border-color: #e0a400 !important; color: #ffd76a; }
+[data-tema="escuro"] .chip-cupom.ativo { background: #e0a400 !important; color: #111115 !important; }
+[data-tema="escuro"] .faixa-cupons, [data-tema="escuro"] .caixa-cupom { background: linear-gradient(135deg, #2a2210, #3a2d0c); }
+[data-tema="escuro"] .faixa-topo a { color: #ffc94d; }
+[data-tema="escuro"] .cupom-grande { border-color: #8a6a10; }
+[data-tema="escuro"] .cupom-grande h3 { color: #ff8a70; }
+[data-tema="escuro"] .resenha thead th { background: #2d2d36; }
+[data-tema="escuro"] .resenha tr.destaque td { background: #12301e; }
+[data-tema="escuro"] .resenha a:not(.btn) { color: #ff8a70; }
+[data-tema="escuro"] .aviso { background: #ececf1; color: #111115; }
+
+/* botão de tema */
+.btn-tema { background: none; border: 1px solid var(--borda); color: var(--txt); width: 38px; height: 38px; border-radius: 999px; cursor: pointer; font-size: 1.05rem; line-height: 1; flex: none; }
+.btn-tema:hover { border-color: var(--cor); }
+.btn-tema::before { content: "🌙"; }
+[data-tema="escuro"] .btn-tema::before { content: "☀️"; }

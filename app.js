@@ -48,3 +48,19 @@
     avisar(ok ? `Cupom ${b.dataset.cupom} copiado — cole no carrinho da loja 🛒` : `Cupom: ${b.dataset.cupom}`);
   });
 })();
+
+// Tema claro/escuro: segue o aparelho até a pessoa escolher; a escolha fica salva.
+(function () {
+  const b = document.getElementById("btn-tema"); if (!b) return;
+  const raiz = document.documentElement;
+  b.addEventListener("click", () => {
+    const novo = raiz.dataset.tema === "escuro" ? "claro" : "escuro";
+    raiz.dataset.tema = novo;
+    try { localStorage.setItem("tema", novo); } catch {}
+  });
+  // se a pessoa nunca escolheu, acompanha a troca do sistema
+  matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", (e) => {
+    try { if (localStorage.getItem("tema")) return; } catch {}
+    raiz.dataset.tema = e.matches ? "escuro" : "claro";
+  });
+})();
