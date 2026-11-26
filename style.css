@@ -7,7 +7,7 @@ body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, san
 .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
 
 .topo { background: #fff; border-bottom: 1px solid var(--borda); position: sticky; top: 0; z-index: 5; }
-.topo-in { display: flex; align-items: center; justify-content: space-between; gap: 12px; height: 60px; }
+.topo-in { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 60px; flex-wrap: wrap; padding: 8px 16px; }
 .marca { font-size: 1.2rem; color: var(--txt); text-decoration: none; }
 .marca b { color: var(--cor); }
 .btn-zap { background: var(--zap); color: #fff; text-decoration: none; padding: 9px 14px; border-radius: 999px; font-weight: 600; font-size: .9rem; white-space: nowrap; }
@@ -33,15 +33,59 @@ body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, san
 .precos { display: flex; align-items: baseline; gap: 8px; margin-top: auto; }
 .precos s { color: var(--sub); font-size: .85rem; }
 .precos strong { font-size: 1.25rem; color: var(--txt); }
-.cupom { margin: 0; font-size: .85rem; } .cupom code { background: #fff3cd; padding: 2px 6px; border-radius: 4px; }
 .btn { display: block; text-align: center; background: var(--cor); color: #fff; text-decoration: none; font-weight: 600; padding: 10px; border-radius: 10px; }
 .btn:hover { background: var(--cor2); }
 time { font-size: .75rem; color: var(--sub); text-align: center; }
 .vazio { text-align: center; color: var(--sub); padding: 40px 0; }
 .rodape { color: var(--sub); font-size: .8rem; padding: 24px 16px 40px; border-top: 1px solid var(--borda); }
 
+.menu { display: flex; gap: 4px; margin-right: auto; margin-left: 12px; }
+.menu a { color: var(--sub); text-decoration: none; font-weight: 600; padding: 6px 10px; border-radius: 8px; }
+.menu a[aria-current] { color: var(--cor); background: #fff1ee; }
+.hero { padding: 20px 0 4px; }
+.hero h1 { font-size: 1.5rem; margin: 0 0 6px; }
+.hero p { margin: 0; color: var(--sub); }
+
+/* ---------- cupom em destaque ---------- */
+.ticket { display: flex; flex-direction: column; gap: 4px; margin: 2px 0; }
+.ticket-rot { font-size: .72rem; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; color: #a15c00; }
+.ticket-cod { display: flex; align-items: center; justify-content: space-between; gap: 8px; width: 100%;
+  background: #fff6d6; border: 2px dashed #f0a500; border-radius: 10px; padding: 9px 12px; cursor: pointer; font: inherit; color: var(--txt); transition: background .15s, transform .1s; }
+.ticket-cod b { font-family: ui-monospace, Consolas, monospace; font-size: 1.15rem; letter-spacing: .06em; overflow: hidden; text-overflow: ellipsis; }
+.ticket-cod span { flex: none; background: #f0a500; color: #1d1d22; font-size: .72rem; font-weight: 800; text-transform: uppercase; padding: 4px 8px; border-radius: 6px; }
+.ticket-cod:hover { background: #ffefb0; } .ticket-cod:active { transform: scale(.98); }
+.ticket-cod.copiado { background: #e3f8ea; border-color: var(--zap); } .ticket-cod.copiado span { background: var(--zap); color: #fff; }
+.card.tem-cupom { border-color: #f0c040; box-shadow: 0 0 0 1px #f0c040 inset; }
+.selo-cupom { position: absolute; top: 10px; right: 10px; background: #ffb400; color: #1d1d22; font-weight: 800; font-size: .72rem; padding: 4px 8px; border-radius: 6px; }
+.piada { margin: 0; font-size: .8rem; color: var(--sub); font-style: italic; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chip-cupom { background: #fff6d6 !important; border-color: #f0a500 !important; font-weight: 700; }
+.chip-cupom.ativo { background: #f0a500 !important; color: #1d1d22 !important; }
+
+.faixa-cupons { margin-top: 16px; background: linear-gradient(135deg, #fff3c4, #ffe08a); border-radius: 16px; padding: 14px 16px 16px; }
+.faixa-topo { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin-bottom: 10px; }
+.faixa-topo h2 { margin: 0; font-size: 1.15rem; }
+.faixa-topo a { color: #8a4b00; font-weight: 700; text-decoration: none; font-size: .9rem; white-space: nowrap; }
+.faixa-lista { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 4px; scroll-snap-type: x mandatory; }
+.mini-cupom { flex: 0 0 210px; scroll-snap-align: start; background: #fff; border-radius: 12px; padding: 10px; display: flex; flex-direction: column; gap: 4px; }
+.mini-cupom strong { font-size: 1.05rem; }
+.mini-loja { font-size: .7rem; font-weight: 800; text-transform: uppercase; color: #2d3277; }
+
+.secao-cupons { margin: 20px 0; } .secao-cupons h2 { font-size: 1.2rem; }
+.lista-cupons { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+.cupom-grande { background: #fff; border: 2px solid #f0c040; border-radius: 14px; padding: 14px; display: flex; flex-direction: column; gap: 8px; }
+.cupom-grande h3 { margin: 0; font-size: 1.35rem; color: var(--cor2); }
+.cupom-grande ul { margin: 0; padding-left: 18px; color: var(--sub); font-size: .85rem; }
+.cg-topo { display: flex; justify-content: space-between; }
+.rodape a { color: var(--zap); }
+.aviso { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: #1d1d22; color: #fff; padding: 12px 18px; border-radius: 12px; font-weight: 600; z-index: 20; box-shadow: 0 6px 24px rgba(0,0,0,.25); max-width: 92vw; text-align: center; }
+[hidden] { display: none !important; }
+
 @media (max-width: 520px) {
   .grade { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .btn-zap { font-size: .78rem; padding: 8px 10px; }
   .precos strong { font-size: 1.05rem; }
+  .menu { order: 3; width: 100%; margin: 0; }
+  .hero h1 { font-size: 1.25rem; }
+  .ticket-cod { padding: 7px 8px; } .ticket-cod b { font-size: .95rem; }
+  .ticket-cod span { font-size: .62rem; padding: 3px 5px; }
 }

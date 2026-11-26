@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://promocoescuponselinks.github.io/sitemap.xml
