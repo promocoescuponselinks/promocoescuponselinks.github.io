@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0dm9r7k8j",
+    "titulo": "Fone de Ouvido Eardbud AIWA AWS-EB-04-B Bluetooth IPX4 ANC 26 Horas de bateria",
+    "loja": "Amazon",
+    "preco": null,
+    "precoAntigo": null,
+    "cupom": "BLACKMAGALU",
+    "link": "https://www.amazon.com.br/dp/B0DM9R7K8J?tag=achadin022061-20",
+    "imagem": "img/ed93a67f1f15e8dc.jpg",
+    "data": "2026-11-27T00:07:49.175Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-2-em-1-wap-power-speed-2000w-com-filtro-hepa-127v/p/mlb14214639",
     "titulo": "CORRE, ESSE É ABSURDO! corre que o cupom vai esgotar rápido",
     "loja": "Mercado Livre",
@@ -3287,16 +3298,5 @@
     "link": "https://produto.mercadolivre.com.br/MLB-3872723957-tenis-mizuno-jet-8-masculino-_JM?matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/dd5c1823af69f4fe.jpg",
     "data": "2026-11-26T13:55:23.166Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b076fbfgbc",
-    "titulo": "CORRE, MENOR VALOR NESSE FILTRO",
-    "loja": "Amazon",
-    "preco": 551,
-    "precoAntigo": 1129,
-    "cupom": "BLACK75OFF",
-    "link": "https://www.amazon.com.br/dp/B076FBFGBC?tag=achadin022061-20",
-    "imagem": "img/c76f45ead4a00658.jpg",
-    "data": "2026-11-26T13:54:37.505Z"
   }
 ]

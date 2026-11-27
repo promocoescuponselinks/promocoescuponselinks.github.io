@@ -207,3 +207,22 @@ time { font-size: .75rem; color: var(--sub); text-align: center; }
 .ordem { font-size: .9rem; color: var(--sub); display: inline-flex; align-items: center; gap: 6px; }
 .ordem select { font: inherit; color: var(--txt); background: var(--card); border: 1px solid var(--borda); border-radius: 10px; padding: 8px 10px; cursor: pointer; }
 .ordem select:focus { outline: 2px solid var(--cor); }
+
+/* ================= CORES DAS LOJAS =================
+   Mercado Livre e Amazon: amarelo · Shopee e AliExpress: laranja */
+:root { --ml: #ffe600; --ml-txt: #2d3277; --amz: #ffc300; --amz-txt: #131921; --shp: #ee4d2d; --ali: #ff6a00; }
+.loja, .mini-loja { display: inline-block; width: fit-content; padding: 3px 8px; border-radius: 6px; letter-spacing: .04em; }
+.loja-mercado-livre, [data-tema="escuro"] .loja-mercado-livre { background: var(--ml); color: var(--ml-txt); }
+.loja-amazon, [data-tema="escuro"] .loja-amazon { background: var(--amz); color: var(--amz-txt); }
+.loja-shopee, [data-tema="escuro"] .loja-shopee { background: var(--shp); color: #fff; }
+.loja-aliexpress, [data-tema="escuro"] .loja-aliexpress { background: var(--ali); color: #fff; }
+.loja-magalu, [data-tema="escuro"] .loja-magalu { background: #0086ff; color: #fff; }
+/* botões de filtro com a cor da loja: contorno quando solto, cheio quando ativo */
+.filtros button[data-filtro="Mercado Livre"] { border-color: var(--ml); box-shadow: inset 0 -3px 0 var(--ml); }
+.filtros button[data-filtro="Amazon"] { border-color: var(--amz); box-shadow: inset 0 -3px 0 var(--amz); }
+.filtros button[data-filtro="Shopee"] { border-color: var(--shp); box-shadow: inset 0 -3px 0 var(--shp); }
+.filtros button[data-filtro="AliExpress"] { border-color: var(--ali); box-shadow: inset 0 -3px 0 var(--ali); }
+.filtros button.ativo[data-filtro="Mercado Livre"], [data-tema="escuro"] .filtros button.ativo[data-filtro="Mercado Livre"] { background: var(--ml); color: var(--ml-txt); border-color: var(--ml); box-shadow: none; }
+.filtros button.ativo[data-filtro="Amazon"], [data-tema="escuro"] .filtros button.ativo[data-filtro="Amazon"] { background: var(--amz); color: var(--amz-txt); border-color: var(--amz); box-shadow: none; }
+.filtros button.ativo[data-filtro="Shopee"], [data-tema="escuro"] .filtros button.ativo[data-filtro="Shopee"] { background: var(--shp); color: #fff; border-color: var(--shp); box-shadow: none; }
+.filtros button.ativo[data-filtro="AliExpress"], [data-tema="escuro"] .filtros button.ativo[data-filtro="AliExpress"] { background: var(--ali); color: #fff; border-color: var(--ali); box-shadow: none; }
