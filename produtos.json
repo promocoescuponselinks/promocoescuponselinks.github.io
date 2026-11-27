@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0hd2t6bzz",
+    "titulo": "CORREEE, PRECINHO NESSE OMÃO",
+    "loja": "Amazon",
+    "preco": 33,
+    "precoAntigo": 54,
+    "cupom": "SONHOBLACK10",
+    "link": "https://www.amazon.com.br/dp/B0HD2T6BZZ?tag=achadin022061-20",
+    "imagem": "img/a25b4ff78be1fe19.jpg",
+    "data": "2026-11-27T23:52:17.165Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731/p/mlb36772633",
+    "titulo": "ESSE VALE DEMAIS PRO TRABALHO/ESTUDOS",
+    "loja": "Mercado Livre",
+    "preco": 2499,
+    "precoAntigo": 4199,
+    "cupom": "MELINABLACK",
+    "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731/p/MLB36772633?pdp_filters=item_id%3AMLB3746267799&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/8ed79d2752b10ee3.jpg",
+    "data": "2026-11-27T23:49:18.777Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b07ynymp5b",
+    "titulo": "CORREE, BALLANTAS NO PRECINHO",
+    "loja": "Amazon",
+    "preco": 39,
+    "precoAntigo": 84,
+    "cupom": "SONHOBLACK10",
+    "link": "https://www.amazon.com.br/dp/B07YNYMP5B?tag=achadin022061-20",
+    "imagem": "img/74e083f5ba7d6ffb.jpg",
+    "data": "2026-11-27T23:49:17.048Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b077syybvz",
+    "titulo": "CORRE JOGO DE FRIGIDEIRAS DE GRAÇA, 90% vendidos",
+    "loja": "Amazon",
+    "preco": 38,
+    "precoAntigo": 148,
+    "cupom": "SONHOBLACK10",
+    "link": "https://www.amazon.com.br/dp/B077SYYBVZ?tag=achadin022061-20",
+    "imagem": "img/cd05d1517874b8b5.jpg",
+    "data": "2026-11-27T23:48:33.796Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b07w8x4f48",
+    "titulo": "CHEGA DE CULPAR ESSE SEU MOUSE VÉIO",
+    "loja": "Amazon",
+    "preco": 300.1,
+    "precoAntigo": null,
+    "cupom": "SONHOBLACK10",
+    "link": "https://www.amazon.com.br/dp/B07W8X4F48?tag=achadin022061-20",
+    "imagem": "img/15d5f84a846b29e4.jpg",
+    "data": "2026-11-27T23:47:01.763Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4096917772-short-masculino-bermuda-praia-2-bolsos-ziper-secagem-rapida-_jm",
+    "titulo": "SHORT 2 BOLSOS COM ZÍPER: SEGURANÇA E FRESCOR NO VERÃO",
+    "loja": "Mercado Livre",
+    "preco": 29.7,
+    "precoAntigo": 44.99,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-4096917772-short-masculino-bermuda-praia-2-bolsos-ziper-secagem-rapida-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/41d2526aae670b66.jpg",
+    "data": "2026-11-27T23:46:46.890Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4206294213-conjunto-academia-feminino-compact-top-e-short-arm-_jm",
+    "titulo": "MAIS CONFORTAVEL PRA TREINAR NÃO TEM",
+    "loja": "Mercado Livre",
+    "preco": 61.02,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-4206294213-conjunto-academia-feminino-compact-top-e-short-arm-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/c9cb08982f87c8b3.jpg",
+    "data": "2026-11-27T23:44:45.467Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/fogao-5-bocas-brastemp-bfs5ncr/up/mlbu1753181741",
+    "titulo": "LINDO DEMAIS ESSE FOGÃO",
+    "loja": "Mercado Livre",
+    "preco": 1368,
+    "precoAntigo": 2269,
+    "cupom": "OFERTABLACK",
+    "link": "https://www.mercadolivre.com.br/fogao-5-bocas-brastemp-bfs5ncr/up/MLBU1753181741?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/aaf7c37e37651d86.jpg",
+    "data": "2026-11-27T23:44:00.744Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b079vxjk79",
+    "titulo": "55 CONTO NO CETAPHIL, tá valendo muito",
+    "loja": "Amazon",
+    "preco": 55,
+    "precoAntigo": 134,
+    "cupom": "SONHOBLACK10",
+    "link": "https://www.amazon.com.br/dp/B079VXJK79?tag=achadin022061-20",
+    "imagem": "img/b517bacc9af4f64d.jpg",
+    "data": "2026-11-27T23:43:17.216Z"
+  },
+  {
     "id": "https://www.amazon.com.br/whisky-chivas-regal-12-anos/dp/b075qhv5ld",
     "titulo": "COORREEE MENOR PREÇO NESSE WHISKY CHIVAS, oferta exclusiva Prime",
     "loja": "Amazon",
@@ -3199,104 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-370ml-freezer-vitrex/p/MLB78457348?pdp_filters=item_id%3AMLB4925283537&matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/8a80a06d7fb36d00.jpg",
     "data": "2026-11-27T16:46:28.102Z"
-  },
-  {
-    "id": "ae:1005007954929165",
-    "titulo": "Fone De Ouvido Sem Fio Bluetooth M25 TWS Com Controle De Toque Redução De Ruído Estéreo Pa",
-    "loja": "AliExpress",
-    "preco": 34.22,
-    "precoAntigo": 122.22,
-    "cupom": "",
-    "link": "https://s.click.aliexpress.com/e/_c3wWTYYD",
-    "imagem": "img/5bdfc4a69a2c950b.jpg",
-    "data": "2026-11-27T16:46:27.734Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0flkl7dhz",
-    "titulo": "CORREEE MONITOR POR MENOS DE 500 CONTO",
-    "loja": "Amazon",
-    "preco": 499,
-    "precoAntigo": 999,
-    "cupom": "INFLUPRIME",
-    "link": "https://www.amazon.com.br/dp/B0FLKL7DHZ?tag=achadin022061-20",
-    "imagem": "img/381efb96d893108e.jpg",
-    "data": "2026-11-27T16:45:45.084Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-4592320910-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada-_jm",
-    "titulo": "13 REAIS CADA DRY-FIT",
-    "loja": "Mercado Livre",
-    "preco": 54,
-    "precoAntigo": 135,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-4592320910-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/e2752ab7688b6fe4.jpg",
-    "data": "2026-11-27T16:45:42.064Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0djpjm5zf",
-    "titulo": "AIR FRYER DIFERENCIADA",
-    "loja": "Amazon",
-    "preco": 239,
-    "precoAntigo": 589,
-    "cupom": "IMPERDIVEL30",
-    "link": "https://www.amazon.com.br/dp/B0DJPJM5ZF?tag=achadin022061-20",
-    "imagem": "img/e64f19d3c4774710.jpg",
-    "data": "2026-11-27T16:44:13.593Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/principia-kit-protetor-solar-facial-ps-01-fps60/p/mlb54456751",
-    "titulo": "25 CONTO CADA PROTETOR FPS60",
-    "loja": "Mercado Livre",
-    "preco": 50,
-    "precoAntigo": 98,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/principia-kit-protetor-solar-facial-ps-01-fps60/p/MLB54456751?pdp_filters=item_id%3AMLB4186648429&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/9ae738a0ab6bfabe.jpg",
-    "data": "2026-11-27T16:42:42.277Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-5964576452-tnis-fitness-academia-feminino-esportivo-caminhada-corrida-_jm",
-    "titulo": "TÊNIS FITNESS PRA ELAS BARATINHO",
-    "loja": "Mercado Livre",
-    "preco": 89,
-    "precoAntigo": 149,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-5964576452-tnis-fitness-academia-feminino-esportivo-caminhada-corrida-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/d6909dc8eacb6a86.jpg",
-    "data": "2026-11-27T16:42:29.147Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-3863273810-jaqueta-masculina-jeans-sarja-slim-fit-coloridas-versatil-_jm",
-    "titulo": "JAQUETA DE SARJA VERSÁTIL PRA COMBINAR COM TUDO!",
-    "loja": "Mercado Livre",
-    "preco": 123,
-    "precoAntigo": 139,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-3863273810-jaqueta-masculina-jeans-sarja-slim-fit-coloridas-versatil-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/9e76d0456b7ffadc.jpg",
-    "data": "2026-11-27T16:42:27.807Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/",
-    "titulo": "TOME CUPOM NA AMAZON",
-    "loja": "Amazon",
-    "preco": 150,
-    "precoAntigo": 500,
-    "cupom": "INFLUPRIME",
-    "link": "https://www.amazon.com.br/?btn_type=ss&btn_ref=srctok-64e42fb6c39e0411&tag=achadin022061-20",
-    "imagem": "img/59b8630d65f1f98a.jpg",
-    "data": "2026-11-27T16:41:59.561Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0h9brm4mc",
-    "titulo": "SAIU CUPOM NA AMAZON!",
-    "loja": "Amazon",
-    "preco": 150,
-    "precoAntigo": 500,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0H9BRM4MC?tag=achadin022061-20",
-    "imagem": "img/843828cde3144a8f.jpg",
-    "data": "2026-11-27T16:40:30.780Z"
   }
 ]
