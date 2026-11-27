@@ -1,5 +1,126 @@
 [
   {
+    "id": "https://www.amazon.com.br/whisky-chivas-regal-12-anos/dp/b075qhv5ld",
+    "titulo": "COORREEE MENOR PREÇO NESSE WHISKY CHIVAS, oferta exclusiva Prime",
+    "loja": "Amazon",
+    "preco": 72,
+    "precoAntigo": 178,
+    "cupom": "SONHOBLACK10",
+    "link": "https://www.amazon.com.br/dp/B075QHV5LD?tag=achadin022061-20",
+    "imagem": "img/f7587f01a146a44a.jpg",
+    "data": "2026-11-27T23:42:32.117Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0f1c3mrmf",
+    "titulo": "VAMO TROCAR ESSE HEADSET TODO REMENDADO",
+    "loja": "Amazon",
+    "preco": 119.99,
+    "precoAntigo": null,
+    "cupom": "SONHOBLACK10",
+    "link": "https://www.amazon.com.br/dp/B0F1C3MRMF?tag=achadin022061-20",
+    "imagem": "img/d63aabe1cdb2a1ff.jpg",
+    "data": "2026-11-27T23:41:46.952Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/kit-brae-stages-nutrition-shampoocondmasc-essential-60ml/p/mlb50949075",
+    "titulo": "KIT BRAÉ STAGES NUTRITION: CABELO NUTRIDO DA RAIZ ÀS PONTAS 🧡",
+    "loja": "Mercado Livre",
+    "preco": 112.84,
+    "precoAntigo": 293.9,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/kit-brae-stages-nutrition-shampoocondmasc-essential-60ml/p/MLB50949075?pdp_filters=item_id%3AMLB8059226760&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/9b63a760f68119d1.jpg",
+    "data": "2026-11-27T23:40:47.310Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/kit-5-bermudas-moletom-masculina-sortidas-academia-full-lote/up/mlbu3367055200",
+    "titulo": "KIT 5 BERMUDAS MOLETOM: UMA PRA CADA DIA DA SEMANA",
+    "loja": "Mercado Livre",
+    "preco": 70.96,
+    "precoAntigo": 138.9,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/kit-5-bermudas-moletom-masculina-sortidas-academia-full-lote/up/MLBU3367055200?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/04fa74cd5159decf.jpg",
+    "data": "2026-11-27T23:40:45.838Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/gp/product/b01ncduzxd",
+    "titulo": "CORRE CHOCOTTONE POR MENOS DE 20 CONTO",
+    "loja": "Amazon",
+    "preco": 18,
+    "precoAntigo": 24,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B01NCDUZXD?tag=achadin022061-20",
+    "imagem": "img/8062754954c0ac74.jpg",
+    "data": "2026-11-27T23:40:17.158Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0fn4bk3v7",
+    "titulo": "NOVO CUPOM AMAZON!",
+    "loja": "Amazon",
+    "preco": 10,
+    "precoAntigo": 40,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0FN4BK3V7?tag=achadin022061-20",
+    "imagem": "img/61294cac6a6f43d7.jpg",
+    "data": "2026-11-27T23:38:48.653Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-7-5825u-linux-8gb-ram-512gb-ssd-wi-fi-6-tela-16-ips-wuxga-antirreflexo-cinza-grafite-vjfe69f11xb0321h-permite-upgrade-de-memoria-ram-e-ssd/p/mlb46476929",
+    "titulo": "NOTE PRO SEU HOME OFFICE",
+    "loja": "Mercado Livre",
+    "preco": 2806,
+    "precoAntigo": 7999,
+    "cupom": "MELINABLACK",
+    "link": "https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-7-5825u-linux-8gb-ram-512gb-ssd-wi-fi-6-tela-16-ips-wuxga-antirreflexo-cinza-grafite-vjfe69f11xb0321h-permite-upgrade-de-memoria-ram-e-ssd/p/MLB46476929?pdp_filters=item_id%3AMLB4521721421&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/0c6368c5acd3ff03.jpg",
+    "data": "2026-11-27T23:38:47.743Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/samsung-a57-5g-128gb-cinza-watch9-bt-40-mm-grafite/p/mlb82601648",
+    "titulo": "CORREEE, AGORA NA VERSÃO 128GB",
+    "loja": "Mercado Livre",
+    "preco": 2293,
+    "precoAntigo": 3442,
+    "cupom": "MELINABLACK",
+    "link": "https://www.mercadolivre.com.br/samsung-a57-5g-128gb-cinza-watch9-bt-40-mm-grafite/p/MLB82601648?pdp_filters=item_id%3AMLB5572145311&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/8351bf8f92f3d18e.jpg",
+    "data": "2026-11-27T23:38:46.201Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/smart-tv-tcl-65-polegadas-qled-4k-p8ls-wifi-bluetooth-google-tv-hdr10-120-hz-dlg-vrr-65p8ls/p/mlb79655640",
+    "titulo": "CORREEE, 65” QLED PARCCELADINHA",
+    "loja": "Mercado Livre",
+    "preco": 3599,
+    "precoAntigo": 5499,
+    "cupom": "MELINABLACK",
+    "link": "https://www.mercadolivre.com.br/smart-tv-tcl-65-polegadas-qled-4k-p8ls-wifi-bluetooth-google-tv-hdr10-120-hz-dlg-vrr-65p8ls/p/MLB79655640?pdp_filters=item_id%3AMLB7764405974&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e545e0cc96a7afa6.jpg",
+    "data": "2026-11-27T23:34:16.918Z"
+  },
+  {
+    "id": "ae:1005013266154832",
+    "titulo": "Ferramenta de Remoção de Acabamentos, Conjunto de 5/6 Peças, Kit de Ferramentas para Desmo",
+    "loja": "AliExpress",
+    "preco": 14.5,
+    "precoAntigo": 31.36,
+    "cupom": "",
+    "link": "https://s.click.aliexpress.com/e/_c3hrRffF",
+    "imagem": "img/4336af5f91c54ba8.jpg",
+    "data": "2026-11-27T23:32:46.036Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-431l-bivolt-inox-es40s/p/mlb66364006",
+    "titulo": "DESPENCOU ESSA GIGANTE DA ELECTROLUX",
+    "loja": "Mercado Livre",
+    "preco": 3995,
+    "precoAntigo": 6079,
+    "cupom": "MELINABLACK",
+    "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-431l-bivolt-inox-es40s/p/MLB66364006?pdp_filters=item_id%3AMLB6428842610&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/51084adb393937e2.jpg",
+    "data": "2026-11-27T23:32:45.895Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/lavadora-digital-inverter-samsung-ww11t-inox-11kg/p/mlb39204995",
     "titulo": "PRA QUEM PEDIU LAVADORA INOX",
     "loja": "Mercado Livre",
@@ -3177,126 +3298,5 @@
     "link": "https://www.amazon.com.br/dp/B0H9BRM4MC?tag=achadin022061-20",
     "imagem": "img/843828cde3144a8f.jpg",
     "data": "2026-11-27T16:40:30.780Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b07hzklrck",
-    "titulo": "4 REAIS EM 2 LITROS DE ÁGUA SANITÁRIA 😱",
-    "loja": "Amazon",
-    "preco": 4,
-    "precoAntigo": null,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B07HZKLRCK?tag=achadin022061-20",
-    "imagem": "img/6d8a3d1508085313.jpg",
-    "data": "2026-11-27T16:39:44.038Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-4228780485-kit-3-short-mauricinho-linho-masculino-bermuda-vero-praia-_jm",
-    "titulo": "SHORT DE LINHO PRA VIRAR O ANO NA PRAIA",
-    "loja": "Mercado Livre",
-    "preco": 63,
-    "precoAntigo": 129,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-4228780485-kit-3-short-mauricinho-linho-masculino-bermuda-vero-praia-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/93cbf95838ae9d6a.jpg",
-    "data": "2026-11-27T16:36:27.927Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/smart-tv-tcl-50-polegadas-qled-4k-p7l-wifi-bluetooth-google-tv-hdr10-60-hz-aipq-50p7l/p/mlb67136040",
-    "titulo": "TCL QLED DE 50\" VALENDO DEMAIS",
-    "loja": "Mercado Livre",
-    "preco": 1850,
-    "precoAntigo": 2999,
-    "cupom": "DESCONTO199",
-    "link": "https://www.mercadolivre.com.br/smart-tv-tcl-50-polegadas-qled-4k-p7l-wifi-bluetooth-google-tv-hdr10-60-hz-aipq-50p7l/p/MLB67136040?pdp_filters=item_id%3AMLB4835188553&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/ecb2bb22ec90e6ca.jpg",
-    "data": "2026-11-27T16:33:44.892Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0f35gplgv",
-    "titulo": "17 CONTO 3 PRINGLES, vai acabar rápido",
-    "loja": "Amazon",
-    "preco": 17,
-    "precoAntigo": null,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0F35GPLGV?tag=achadin022061-20",
-    "imagem": "img/e623eba0d0f1086d.jpg",
-    "data": "2026-11-27T16:33:43.248Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/mascara-facial-led-shark-cryoglow-com-resfriamento-4-em-1-com-registro-na-anvisa-n-83315409001-480-leds-iqled-luz-vermelha-azul-e-infravermelha-resfriamento-instachill-4-tratamentos-azul/p/mlb80808689",
-    "titulo": "TECNOLOGIA DE CLÍNICA PRO SEU SKINCARE",
-    "loja": "Mercado Livre",
-    "preco": 2099,
-    "precoAntigo": 5999,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/mascara-facial-led-shark-cryoglow-com-resfriamento-4-em-1-com-registro-na-anvisa-n-83315409001-480-leds-iqled-luz-vermelha-azul-e-infravermelha-resfriamento-instachill-4-tratamentos-azul/p/MLB80808689?pdp_filters=item_id%3AMLB5461645453&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/08cde79acb363d58.jpg",
-    "data": "2026-11-27T16:32:11.787Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b08lbqwqv4",
-    "titulo": "CORREEE, MENOS DE 70 CONTO NO VENTILADOR",
-    "loja": "Amazon",
-    "preco": 62,
-    "precoAntigo": 189,
-    "cupom": "IMPERDIVEL30",
-    "link": "https://www.amazon.com.br/dp/B08LBQWQV4?tag=achadin022061-20",
-    "imagem": "img/0233e4a85885aa80.jpg",
-    "data": "2026-11-27T16:31:28.215Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/cooktop-pct04i-4-bocas-a-gas-automatico-inox-philco/p/mlb18514298",
-    "titulo": "COOKTOP PHILCO 4 BOCAS PRA RENOVAR A COZINHA! 🔥🍳",
-    "loja": "Mercado Livre",
-    "preco": 364,
-    "precoAntigo": 1200,
-    "cupom": "TECHONOMELI",
-    "link": "https://www.mercadolivre.com.br/cooktop-pct04i-4-bocas-a-gas-automatico-inox-philco/p/MLB18514298?pdp_filters=item_id%3AMLB4150838215&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/c0da24a305264f64.jpg",
-    "data": "2026-11-27T16:30:29.919Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-3884158173-tnis-nike-air-max-nuaxis-masculino-_jm",
-    "titulo": "AIR MAX ALL BLACK NO PRECINHO",
-    "loja": "Mercado Livre",
-    "preco": 279,
-    "precoAntigo": 599,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-3884158173-tnis-nike-air-max-nuaxis-masculino-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/b79fcc4cdad85ce2.jpg",
-    "data": "2026-11-27T16:29:11.910Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/lava-louca-electrolux-8-servicos-inox-com-programa-lava-seca-50-minutos-ls08e-display-digital/p/mlb49940241",
-    "titulo": "PREÇO BIZARRO NESSA LAVA-LOUÇA",
-    "loja": "Mercado Livre",
-    "preco": 1709,
-    "precoAntigo": 3099,
-    "cupom": "TECHNOMELI",
-    "link": "https://www.mercadolivre.com.br/lava-louca-electrolux-8-servicos-inox-com-programa-lava-seca-50-minutos-ls08e-display-digital/p/MLB49940241?pdp_filters=item_id%3AMLB5499042712&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/b1bc7680d568c4fb.jpg",
-    "data": "2026-11-27T16:26:56.995Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/panela-de-pressao-mecanica-preta-e-inox-4l-midea-cor-cinza/p/mlb45406063",
-    "titulo": "PANELA DE PRESSÃO ELÉTRICA MIDEA COM DESCONTÃO!",
-    "loja": "Mercado Livre",
-    "preco": 191,
-    "precoAntigo": 699,
-    "cupom": "H55MELI",
-    "link": "https://www.mercadolivre.com.br/panela-de-pressao-mecanica-preta-e-inox-4l-midea-cor-cinza/p/MLB45406063?pdp_filters=item_id%3AMLB7015969038&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/8fd01ba9f8bc4225.jpg",
-    "data": "2026-11-27T16:26:31.017Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/escrivaninha-industrial-aco-mdf-mdp-de-90cm-x-76cm-x-45cm-amadeirado/p/mlb46035874",
-    "titulo": "ESCRIVANINHA PARA HOME OFFICE COM VISUAL INDUSTRIAL E AMADEIRADO",
-    "loja": "Mercado Livre",
-    "preco": 104,
-    "precoAntigo": 149,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/escrivaninha-industrial-aco-mdf-mdp-de-90cm-x-76cm-x-45cm-amadeirado/p/MLB46035874?pdp_filters=item_id%3AMLB4181265735&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/cdfb2ff94a03412e.jpg",
-    "data": "2026-11-27T16:26:27.731Z"
   }
 ]
