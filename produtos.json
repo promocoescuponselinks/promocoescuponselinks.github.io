@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0flkl7dhz",
+    "titulo": "CORREEE MONITOR POR MENOS DE 500 CONTO",
+    "loja": "Amazon",
+    "preco": 499,
+    "precoAntigo": 999,
+    "cupom": "INFLUPRIME",
+    "link": "https://www.amazon.com.br/dp/B0FLKL7DHZ?tag=achadin022061-20",
+    "imagem": "img/381efb96d893108e.jpg",
+    "data": "2026-11-27T16:45:45.084Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4592320910-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada-_jm",
+    "titulo": "13 REAIS CADA DRY-FIT",
+    "loja": "Mercado Livre",
+    "preco": 54,
+    "precoAntigo": 135,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-4592320910-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e2752ab7688b6fe4.jpg",
+    "data": "2026-11-27T16:45:42.064Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0djpjm5zf",
+    "titulo": "AIR FRYER DIFERENCIADA",
+    "loja": "Amazon",
+    "preco": 239,
+    "precoAntigo": 589,
+    "cupom": "IMPERDIVEL30",
+    "link": "https://www.amazon.com.br/dp/B0DJPJM5ZF?tag=achadin022061-20",
+    "imagem": "img/e64f19d3c4774710.jpg",
+    "data": "2026-11-27T16:44:13.593Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/principia-kit-protetor-solar-facial-ps-01-fps60/p/mlb54456751",
+    "titulo": "25 CONTO CADA PROTETOR FPS60",
+    "loja": "Mercado Livre",
+    "preco": 50,
+    "precoAntigo": 98,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/principia-kit-protetor-solar-facial-ps-01-fps60/p/MLB54456751?pdp_filters=item_id%3AMLB4186648429&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/9ae738a0ab6bfabe.jpg",
+    "data": "2026-11-27T16:42:42.277Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-5964576452-tnis-fitness-academia-feminino-esportivo-caminhada-corrida-_jm",
+    "titulo": "TÊNIS FITNESS PRA ELAS BARATINHO",
+    "loja": "Mercado Livre",
+    "preco": 89,
+    "precoAntigo": 149,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-5964576452-tnis-fitness-academia-feminino-esportivo-caminhada-corrida-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/d6909dc8eacb6a86.jpg",
+    "data": "2026-11-27T16:42:29.147Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-3863273810-jaqueta-masculina-jeans-sarja-slim-fit-coloridas-versatil-_jm",
+    "titulo": "JAQUETA DE SARJA VERSÁTIL PRA COMBINAR COM TUDO!",
+    "loja": "Mercado Livre",
+    "preco": 123,
+    "precoAntigo": 139,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-3863273810-jaqueta-masculina-jeans-sarja-slim-fit-coloridas-versatil-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/9e76d0456b7ffadc.jpg",
+    "data": "2026-11-27T16:42:27.807Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/",
+    "titulo": "TOME CUPOM NA AMAZON",
+    "loja": "Amazon",
+    "preco": 150,
+    "precoAntigo": 500,
+    "cupom": "INFLUPRIME",
+    "link": "https://www.amazon.com.br/?btn_type=ss&btn_ref=srctok-64e42fb6c39e0411&tag=achadin022061-20",
+    "imagem": "img/59b8630d65f1f98a.jpg",
+    "data": "2026-11-27T16:41:59.561Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0h9brm4mc",
+    "titulo": "SAIU CUPOM NA AMAZON!",
+    "loja": "Amazon",
+    "preco": 150,
+    "precoAntigo": 500,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0H9BRM4MC?tag=achadin022061-20",
+    "imagem": "img/843828cde3144a8f.jpg",
+    "data": "2026-11-27T16:40:30.780Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b07hzklrck",
+    "titulo": "4 REAIS EM 2 LITROS DE ÁGUA SANITÁRIA 😱",
+    "loja": "Amazon",
+    "preco": 4,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B07HZKLRCK?tag=achadin022061-20",
+    "imagem": "img/6d8a3d1508085313.jpg",
+    "data": "2026-11-27T16:39:44.038Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4228780485-kit-3-short-mauricinho-linho-masculino-bermuda-vero-praia-_jm",
+    "titulo": "SHORT DE LINHO PRA VIRAR O ANO NA PRAIA",
+    "loja": "Mercado Livre",
+    "preco": 63,
+    "precoAntigo": 129,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-4228780485-kit-3-short-mauricinho-linho-masculino-bermuda-vero-praia-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/93cbf95838ae9d6a.jpg",
+    "data": "2026-11-27T16:36:27.927Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/smart-tv-tcl-50-polegadas-qled-4k-p7l-wifi-bluetooth-google-tv-hdr10-60-hz-aipq-50p7l/p/mlb67136040",
     "titulo": "TCL QLED DE 50\" VALENDO DEMAIS",
     "loja": "Mercado Livre",
@@ -3188,115 +3298,5 @@
     "link": "https://www.amazon.com.br/dp/B09Y7GM4KY?tag=achadin022061-20",
     "imagem": "img/046552e7dc8583d7.jpg",
     "data": "2026-11-26T17:07:33.203Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-fe-128gb-8gb-ram-tela-67-grafite/p/mlb78949324",
-    "titulo": "S26 FE NO PREÇÃO",
-    "loja": "Mercado Livre",
-    "preco": 2973,
-    "precoAntigo": 5499,
-    "cupom": "PROMOTOP",
-    "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-fe-128gb-8gb-ram-tela-67-grafite/p/MLB78949324?pdp_filters=item_id%3AMLB5293771081&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/10fdef0188611fcc.jpg",
-    "data": "2026-11-26T17:05:17.213Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0hf58ms9s",
-    "titulo": "1KG DA GROWTH NO PRECINHO",
-    "loja": "Amazon",
-    "preco": 169,
-    "precoAntigo": 249,
-    "cupom": "BLACKSONHO",
-    "link": "https://www.amazon.com.br/dp/B0HF58MS9S?tag=achadin022061-20",
-    "imagem": "img/c8b38ec6b3ffadbe.jpg",
-    "data": "2026-11-26T17:03:56.859Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/mixer-vertical-turbo-chef-3-em-1-preto-200w-elgin-127v/up/mlbu4546534537",
-    "titulo": "CORREE, TÁ DADO ESSE MIXER",
-    "loja": "Mercado Livre",
-    "preco": 68,
-    "precoAntigo": 139,
-    "cupom": "AMLQOGSTENZ",
-    "link": "https://www.mercadolivre.com.br/mixer-vertical-turbo-chef-3-em-1-preto-200w-elgin-127v/up/MLBU4546534537?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/f1af38e2c95c1214.jpg",
-    "data": "2026-11-26T17:03:02.606Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0cxf9fz94",
-    "titulo": "24 Unidades YoPRO 15g Proteína 250ml",
-    "loja": "Amazon",
-    "preco": 4.7,
-    "precoAntigo": 219,
-    "cupom": "YOPROQUINZE",
-    "link": "https://www.amazon.com.br/dp/B0CXF9FZ94?tag=achadin022061-20",
-    "imagem": "img/cca8412085c43f2d.jpg",
-    "data": "2026-11-26T17:01:33.610Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b088c4qzv2",
-    "titulo": "LÂMPADA SMART NO PREÇÃO",
-    "loja": "Amazon",
-    "preco": 23,
-    "precoAntigo": 99,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B088C4QZV2?tag=achadin022061-20",
-    "imagem": "img/5f1d3a163b0bd5df.jpg",
-    "data": "2026-11-26T17:00:03.535Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/o-boticario-boticollection-connexion-desodorante-colonia-100ml/p/mlb63523411",
-    "titulo": "66 CONTO NESSE BOTICÁRIO",
-    "loja": "Mercado Livre",
-    "preco": 66,
-    "precoAntigo": 174,
-    "cupom": "AMLQOGSTENZ",
-    "link": "https://www.mercadolivre.com.br/o-boticario-boticollection-connexion-desodorante-colonia-100ml/p/MLB63523411?pdp_filters=item_id%3AMLB6096547070&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/bdec2a4feb13ed34.jpg",
-    "data": "2026-11-26T16:57:02.165Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/prohibido-pre-treino-360g-sabor-strawberry-margarita-morango-a-combinacao-perfeita-de-8-ingredientes-que-proporcionam-energia-do-inicio-ao-fim-do-seu-treino/p/mlb21362449",
-    "titulo": "HOJE NADA É PROHIBIDO",
-    "loja": "Mercado Livre",
-    "preco": 51,
-    "precoAntigo": 121,
-    "cupom": "MELIOFF35",
-    "link": "https://www.mercadolivre.com.br/prohibido-pre-treino-360g-sabor-strawberry-margarita-morango-a-combinacao-perfeita-de-8-ingredientes-que-proporcionam-energia-do-inicio-ao-fim-do-seu-treino/p/MLB21362449?pdp_filters=item_id%3AMLB3171380156&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/08106ab4ad750fc9.jpg",
-    "data": "2026-11-26T16:39:05.430Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-keeposlinux-tela-156-fhd-mixed-black-e1504fa-nj732/p/mlb35715045",
-    "titulo": "DESPENCOU O PREÇO DE NOTE",
-    "loja": "Mercado Livre",
-    "preco": 2381,
-    "precoAntigo": 4199,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-keeposlinux-tela-156-fhd-mixed-black-e1504fa-nj732/p/MLB35715045?pdp_filters=item_id%3AMLB4604524838&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/40ff6599ed867511.jpg",
-    "data": "2026-11-26T16:38:20.550Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/jogo-grand-theft-auto-gta-vi-ps5-tt000272ps5/p/mlb2135480620",
-    "titulo": "GTA VI, eu sei que você tá passando vontade",
-    "loja": "Mercado Livre",
-    "preco": 384,
-    "precoAntigo": 449,
-    "cupom": "PROMOAGORA",
-    "link": "https://www.mercadolivre.com.br/jogo-grand-theft-auto-gta-vi-ps5-tt000272ps5/p/MLB2135480620?pdp_filters=item_id%3AMLB5574086215&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/254fa7174da0496f.jpg",
-    "data": "2026-11-26T16:37:35.686Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0f9nfhk6q",
-    "titulo": "GUESS PARCELADINHA, ela vai pensar que você pagou milhões",
-    "loja": "Amazon",
-    "preco": 327,
-    "precoAntigo": 513,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0F9NFHK6Q?tag=achadin022061-20",
-    "imagem": "img/4ce4df3f85458a3e.jpg",
-    "data": "2026-11-26T16:33:07.614Z"
   }
 ]
