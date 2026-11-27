@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0g4sljnff",
+    "titulo": "VOLTOU O TABLET NO PREÇÃO",
+    "loja": "Amazon",
+    "preco": 1209,
+    "precoAntigo": 2149,
+    "cupom": "BLACK120",
+    "link": "https://www.amazon.com.br/dp/B0G4SLJNFF?tag=achadin022061-20",
+    "imagem": "img/fb1779aaf0bf665e.jpg",
+    "data": "2026-11-27T19:15:00.412Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-3979110183-camiseta-aramis-masculina-crewneck-basic-lisa-preta-_jm",
+    "titulo": "CAMISETA ARAMIS CREWNECK: BÁSICA DE GRIFE",
+    "loja": "Mercado Livre",
+    "preco": 82,
+    "precoAntigo": 289.99,
+    "cupom": "BLACKMELI",
+    "link": "https://produto.mercadolivre.com.br/MLB-3979110183-camiseta-aramis-masculina-crewneck-basic-lisa-preta-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/56186b7130e22885.jpg",
+    "data": "2026-11-27T19:14:28.644Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-feminino-giorgio-armani-acqua-di-gioia-edp-30ml/up/mlbu3530262700",
+    "titulo": "DEIXE SUA AMADA PERFUMADA",
+    "loja": "Mercado Livre",
+    "preco": 204,
+    "precoAntigo": 499,
+    "cupom": "BLACKMELI",
+    "link": "https://www.mercadolivre.com.br/perfume-feminino-giorgio-armani-acqua-di-gioia-edp-30ml/up/MLBU3530262700?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/6a99d78653e5a0c1.jpg",
+    "data": "2026-11-27T19:14:13.586Z"
+  },
+  {
+    "id": "https://shopee.com.br/product/1679511787/58273970155",
+    "titulo": "Combo Mini Siàge Tratamento (6 itens)",
+    "loja": "Shopee",
+    "preco": null,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://shopee.com.br/product/1679511787/58273970155?g=&mmp_pid=an_18328560568&utm_source=an_18328560568&utm_medium=affiliates&utm_campaign=bot",
+    "imagem": "img/9ad95b4dc9e39f7b.jpg",
+    "data": "2026-11-27T19:13:33.671Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/conjunto-escritorio-buffet-e-armario-berlin-vianossa-cor-pretonaturale/p/mlb36506613",
+    "titulo": "BORA ORGANIZAR ESSE ESCRITÓRIO",
+    "loja": "Mercado Livre",
+    "preco": 568,
+    "precoAntigo": 1059,
+    "cupom": "CUPONOMOVEIS",
+    "link": "https://www.mercadolivre.com.br/conjunto-escritorio-buffet-e-armario-berlin-vianossa-cor-pretonaturale/p/MLB36506613?pdp_filters=item_id%3AMLB4347411877&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/89808c674a0d8c6a.jpg",
+    "data": "2026-11-27T19:12:43.510Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4962090958-tnis-nike-air-max-alpha-trainer-6-masculino-_jm",
+    "titulo": "AIR MAX ALPHA TRAINER 6: FIRME NO TREINO 💪",
+    "loja": "Mercado Livre",
+    "preco": 54.28,
+    "precoAntigo": 799.99,
+    "cupom": "BLACKMELI",
+    "link": "https://produto.mercadolivre.com.br/MLB-4962090958-tnis-nike-air-max-alpha-trainer-6-masculino-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/a42d310b15256ec4.jpg",
+    "data": "2026-11-27T19:12:29.961Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/notebook-asus-vivobook-15-bq091w-intel-core-5-serie-3-8gb-ram-512gb-ssd-windows-11-home-156-lcd-led-fhd-nivel-ips/p/mlb80309159",
+    "titulo": "PRA RODAR O LIGA DAS LENDAS LISINHO",
+    "loja": "Mercado Livre",
+    "preco": 2805,
+    "precoAntigo": null,
+    "cupom": "MEUDESCONTOBLACK",
+    "link": "https://www.mercadolivre.com.br/notebook-asus-vivobook-15-bq091w-intel-core-5-serie-3-8gb-ram-512gb-ssd-windows-11-home-156-lcd-led-fhd-nivel-ips/p/MLB80309159?pdp_filters=item_id%3AMLB5392513251&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/380fcff8e29e3c29.jpg",
+    "data": "2026-11-27T19:11:58.282Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/ar-condicionado-gree-g-side-auto-inverter-12000-btu-220v/up/mlbu5950299484",
+    "titulo": "DESPENCOU O PREÇO DO GREE",
+    "loja": "Mercado Livre",
+    "preco": 1755,
+    "precoAntigo": 3799,
+    "cupom": "MEUDESCONTOBLACK",
+    "link": "https://www.mercadolivre.com.br/ar-condicionado-gree-g-side-auto-inverter-12000-btu-220v/up/MLBU5950299484?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/1c275af1fb320c54.jpg",
+    "data": "2026-11-27T19:11:13.421Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/tenis-terrex-anylander-hiking-adidas/up/mlbu3860636362",
+    "titulo": "ADIDAS TERREX ANYLANDER: PRONTO PRA TRILHA",
+    "loja": "Mercado Livre",
+    "preco": 389,
+    "precoAntigo": 449.99,
+    "cupom": "BLACKMELI",
+    "link": "https://www.mercadolivre.com.br/tenis-terrex-anylander-hiking-adidas/up/MLBU3860636362?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/d85c47a9a14cd426.jpg",
+    "data": "2026-11-27T19:10:30.999Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/smart-tv-55-pol-qned-mini-led-ai-4k-qned70-webos-2026-lg/up/mlbu4224796886",
+    "titulo": "CORRREEE, CAIU MAIS A QNED, aproveeeeita",
+    "loja": "Mercado Livre",
+    "preco": 2366,
+    "precoAntigo": 3599,
+    "cupom": "MEUDESCONTOBLACK",
+    "link": "https://www.mercadolivre.com.br/smart-tv-55-pol-qned-mini-led-ai-4k-qned70-webos-2026-lg/up/MLBU4224796886?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/c092c87670285123.jpg",
+    "data": "2026-11-27T19:09:01.211Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/espelho-rocco-corpo-inteiro-organico-90x40-pinterest-grande/up/mlbu3335052004",
+    "titulo": "VAMPIROS, IGNOREM ESSA",
+    "loja": "Mercado Livre",
+    "preco": 76.62,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/espelho-rocco-corpo-inteiro-organico-90x40-pinterest-grande/up/MLBU3335052004?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/b04d5d1e0871d4f7.jpg",
+    "data": "2026-11-27T19:08:59.667Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/geladeira-brastemp-inteligente-512l-bivolt-brm62a/p/mlb65568637",
+    "titulo": "A COZINHA CHEGA TREME QUERENDO UMA DESSA",
+    "loja": "Mercado Livre",
+    "preco": 2891,
+    "precoAntigo": null,
+    "cupom": "MEUDESCONTOBLACK",
+    "link": "https://www.mercadolivre.com.br/geladeira-brastemp-inteligente-512l-bivolt-brm62a/p/MLB65568637?pdp_filters=item_id%3AMLB5609588933&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/1572dbb430b9e1a3.jpg",
+    "data": "2026-11-27T19:08:58.266Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-5352056568-tnis-puma-rebound-v6-low-bdp-moda-casual-masculino-_jm",
+    "titulo": "PUMA REBOUND V6: O CASUAL QUE COMBINA COM TUDO",
+    "loja": "Mercado Livre",
+    "preco": 173,
+    "precoAntigo": 454.53,
+    "cupom": "BLACKMELI",
+    "link": "https://produto.mercadolivre.com.br/MLB-5352056568-tnis-puma-rebound-v6-low-bdp-moda-casual-masculino-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/17402a1d9ecf8dbf.jpg",
+    "data": "2026-11-27T19:08:29.505Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/smartwatch-bettdow-fb041-com-gps-e-alexa-integrados-resistente-agua/p/mlb62961572",
     "titulo": "SAIUU CUPOM MERCADO LIVRE!",
     "loja": "Mercado Livre",
@@ -3155,148 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-2-em-1-wap-power-speed-2000w-com-filtro-hepa-127v/p/MLB14214639?pdp_filters=item_id%3AMLB5414213858&matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/d982dd1da7e389d2.jpg",
     "data": "2026-11-27T00:04:36.707Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/bracelete-pandora-pulseira-de-prata-e-fecho-coracao/up/mlbu4437859578",
-    "titulo": "PULSERINHA DA PANDORA, esse aqui é contrato renovado",
-    "loja": "Mercado Livre",
-    "preco": 346,
-    "precoAntigo": 619,
-    "cupom": "SOHOJE",
-    "link": "https://www.mercadolivre.com.br/bracelete-pandora-pulseira-de-prata-e-fecho-coracao/up/MLBU4437859578?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/4211316c30642b62.jpg",
-    "data": "2026-11-27T00:04:34.968Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/relogio-de-pulso-masculino-minimalista-old-money-fortuna/up/mlbu5332535084",
-    "titulo": "RELÓGIO FORTUNA OLD MONEY: ELEGÂNCIA DISCRETA NO PULSO",
-    "loja": "Mercado Livre",
-    "preco": 69,
-    "precoAntigo": 199.99,
-    "cupom": "FORTUNABLACK15",
-    "link": "https://www.mercadolivre.com.br/relogio-de-pulso-masculino-minimalista-old-money-fortuna/up/MLBU5332535084?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/8c5570637d401f20.jpg",
-    "data": "2026-11-27T00:03:37.566Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/carolina-herrera-good-girl-crystal-class-edp-80ml-feminino/up/mlbu5929512406",
-    "titulo": "GOOD GIRL CRYSTAL CLASS: O SALTO ICÔNICO EM VERSÃO CRISTAL",
-    "loja": "Mercado Livre",
-    "preco": 635.79,
-    "precoAntigo": 969,
-    "cupom": "PROMOAGORA",
-    "link": "https://www.mercadolivre.com.br/carolina-herrera-good-girl-crystal-class-edp-80ml-feminino/up/MLBU5929512406?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/604fbfc074b5ad22.jpg",
-    "data": "2026-11-27T00:03:35.428Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-5063626432-kit-3-shorts-fitness-secagem-rapida-basquetecorrida-_jm",
-    "titulo": "HORA DE BOTAR AS CANELA PRA JOGO",
-    "loja": "Mercado Livre",
-    "preco": 69.22,
-    "precoAntigo": null,
-    "cupom": "SOHOJE",
-    "link": "https://produto.mercadolivre.com.br/MLB-5063626432-kit-3-shorts-fitness-secagem-rapida-basquetecorrida-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/969f1da3a71c2b8c.jpg",
-    "data": "2026-11-26T23:59:20.042Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-eau-de-toilette-200-ml-masculino/p/mlb18423764",
-    "titulo": "NVICTUS GIGANTESCO",
-    "loja": "Mercado Livre",
-    "preco": 533,
-    "precoAntigo": 997,
-    "cupom": "PROMOAGORA",
-    "link": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-eau-de-toilette-200-ml-masculino/p/MLB18423764?pdp_filters=item_id%3AMLB2163088526&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/319141df7fb8f5f8.jpg",
-    "data": "2026-11-26T23:56:22.517Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-2134533232-tnis-nike-sportswear-court-vision-low-next-nature-feminino-_jm",
-    "titulo": "CORREEE, PREÇÃO NO COURT VISION",
-    "loja": "Mercado Livre",
-    "preco": 249,
-    "precoAntigo": 599,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-2134533232-tnis-nike-sportswear-court-vision-low-next-nature-feminino-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/de51e1d2b29b2b01.jpg",
-    "data": "2026-11-26T23:56:20.272Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/grand-theft-auto-vi-xbox-series-xs/p/mlb82931681",
-    "titulo": "GTA VI NO XBOX: VICE CITY TE ESPERA",
-    "loja": "Mercado Livre",
-    "preco": 35.9,
-    "precoAntigo": 449.9,
-    "cupom": "SOHOJE",
-    "link": "https://www.mercadolivre.com.br/grand-theft-auto-vi-xbox-series-xs/p/MLB82931681?pdp_filters=item_id%3AMLB8028630750&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/4a0357ae857bb5f5.jpg",
-    "data": "2026-11-26T23:54:01.696Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/whey-fort-3w-cookies-cream-900g-vitafor/p/mlb26683686",
-    "titulo": "BAIXOU DEMAIS O WHEY DA VITAFOR",
-    "loja": "Mercado Livre",
-    "preco": 147,
-    "precoAntigo": 373,
-    "cupom": "SOHOJE",
-    "link": "https://www.mercadolivre.com.br/whey-fort-3w-cookies-cream-900g-vitafor/p/MLB26683686?pdp_filters=item_id%3AMLB5120918932&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/a76d22c8ec568af3.jpg",
-    "data": "2026-11-26T23:53:32.371Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/air-fryer-kitchen-art-16l-4-em-1-espeto-rotisserie-kaf16a/p/mlb46559895",
-    "titulo": "O FRANGO GANHOU UM SPA PARTICULAR",
-    "loja": "Mercado Livre",
-    "preco": 313.54,
-    "precoAntigo": null,
-    "cupom": "SOHOJE",
-    "link": "https://www.mercadolivre.com.br/air-fryer-kitchen-art-16l-4-em-1-espeto-rotisserie-kaf16a/p/MLB46559895?pdp_filters=item_id%3AMLB5496494200&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/6fa09f988fe1a24e.jpg",
-    "data": "2026-11-26T23:53:30.732Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-16-litros-paf16c/up/mlbu3846525868",
-    "titulo": "O QUE SERIA DE MIM SEM MINHA AIR FRYER",
-    "loja": "Mercado Livre",
-    "preco": 335.2,
-    "precoAntigo": null,
-    "cupom": "SOHOJE",
-    "link": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-16-litros-paf16c/up/MLBU3846525868?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/899ecb9a409f101b.jpg",
-    "data": "2026-11-26T23:51:16.165Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-4232914111-camiseta-tech-light-insider-masculino-_jm",
-    "titulo": "INSIDER TECH LIGHT: PREMIUM POR POUCO MAIS DE 50 REAIS 🔥",
-    "loja": "Mercado Livre",
-    "preco": 18,
-    "precoAntigo": 189,
-    "cupom": "AGORAMODA",
-    "link": "https://produto.mercadolivre.com.br/MLB-4232914111-camiseta-tech-light-insider-masculino-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/3dc423dbcccab6c4.jpg",
-    "data": "2026-11-26T23:50:46.271Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-5699563694-kit-com-3-calcas-jeans-masculina-skinny-corte-tradicional-_jm",
-    "titulo": "28 CONTO CADA CALÇA JEANS",
-    "loja": "Mercado Livre",
-    "preco": 85,
-    "precoAntigo": 229,
-    "cupom": "SOHOJE",
-    "link": "https://produto.mercadolivre.com.br/MLB-5699563694-kit-com-3-calcas-jeans-masculina-skinny-corte-tradicional-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/78a95088a39bc937.jpg",
-    "data": "2026-11-26T23:49:44.646Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-5724907678-tnis-adidas-corrida-feminino-adizero-drive-rc-performance-_jm",
-    "titulo": "CORRE, MENOR PREÇO NO ADIZERO",
-    "loja": "Mercado Livre",
-    "preco": 391,
-    "precoAntigo": 899,
-    "cupom": "SOHOJE",
-    "link": "https://produto.mercadolivre.com.br/MLB-5724907678-tnis-adidas-corrida-feminino-adizero-drive-rc-performance-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/6aa62f63c5a1cb8b.jpg",
-    "data": "2026-11-26T23:48:59.719Z"
   }
 ]
