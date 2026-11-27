@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0g4sl3w21",
+    "titulo": "VOLTOU OS KINDLE EM ESTOQUE",
+    "loja": "Amazon",
+    "preco": 709,
+    "precoAntigo": 1499,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0G4SL3W21?tag=achadin022061-20",
+    "imagem": "img/4097ddfd358df141.jpg",
+    "data": "2026-11-27T19:56:17.472Z"
+  },
+  {
+    "id": "https://shopee.com.br/opaanlp/1343318906/47060418366",
+    "titulo": "REVEZAR O CONTROLE EM 2026 NÃO EXISTE",
+    "loja": "Shopee",
+    "preco": 270.66,
+    "precoAntigo": null,
+    "cupom": "C4RR1NH070",
+    "link": "https://shopee.com.br/opaanlp/1343318906/47060418366?__mobile__=1&exp_group=rollout&mmp_pid=an_18328560568&utm_source=an_18328560568&utm_medium=affiliates&utm_campaign=bot",
+    "imagem": "img/4f9b6f83f720f1bc.jpg",
+    "data": "2026-11-27T19:54:46.910Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/monitor-gamer-curvo-samsung-odyssey-34-g5-165-hz-1ms-ultrawide-preto/p/mlb37944478",
+    "titulo": "Cupom Mercado Livre Produtos Selecionados",
+    "loja": "Mercado Livre",
+    "preco": 50,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-samsung-odyssey-34-g5-165-hz-1ms-ultrawide-preto/p/MLB37944478?pdp_filters=item_id%3AMLB3764736973&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/68941faf08e4ec70.jpg",
+    "data": "2026-11-27T19:53:13.581Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b09b8vgcr8",
+    "titulo": "ECHO DOT COM ALEXA+: O MAIS VENDIDO DA AMAZON",
+    "loja": "Amazon",
+    "preco": 43.16,
+    "precoAntigo": 649,
+    "cupom": "PRIME30OFF",
+    "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=achadin022061-20",
+    "imagem": "img/7e298ff5e23eec48.jpg",
+    "data": "2026-11-27T19:52:30.139Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/camisa-casual-masculina-texturizada-com-botoes-old-money/up/mlbu3776074237",
+    "titulo": "OLD MONEY TEXTURIZADA",
+    "loja": "Mercado Livre",
+    "preco": 45,
+    "precoAntigo": 129,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/camisa-casual-masculina-texturizada-com-botoes-old-money/up/MLBU3776074237?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/18d6672e8aae2a2e.jpg",
+    "data": "2026-11-27T19:50:14.109Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0d8rhx3c6",
+    "titulo": "PELE MACIA IGUAL DE NENEM",
+    "loja": "Amazon",
+    "preco": 20.42,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=achadin022061-20",
+    "imagem": "img/9dd45e0bcf2a1c26.jpg",
+    "data": "2026-11-27T19:49:30.251Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/oculos-de-sol-escuro-masculino-unissex-tendencia-premium/up/mlbu1436022971",
+    "titulo": "ÓCULOS POR 37 CONTO, só na black friday esse preço",
+    "loja": "Mercado Livre",
+    "preco": 37,
+    "precoAntigo": 114,
+    "cupom": "PRECINHO",
+    "link": "https://www.mercadolivre.com.br/oculos-de-sol-escuro-masculino-unissex-tendencia-premium/up/MLBU1436022971?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/63bf721b9f2dc419.jpg",
+    "data": "2026-11-27T19:48:44.005Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/jogo-de-jantar-e-cha-20-pecas-unni-brisa-oxford-aw20-5903/p/mlb33795714",
+    "titulo": "JOGO DE JANTAR UNNI BRISA: MESA POSTA PRA CEIA 🎄",
+    "loja": "Mercado Livre",
+    "preco": 20.18,
+    "precoAntigo": 499.9,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/jogo-de-jantar-e-cha-20-pecas-unni-brisa-oxford-aw20-5903/p/MLB33795714?pdp_filters=item_id%3AMLB4481788370&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/3916df3115025fa3.jpg",
+    "data": "2026-11-27T19:48:28.875Z"
+  },
+  {
+    "id": "ae:1005012807835631",
+    "titulo": "Carregador Original Xiaomi 120W 100W Adaptador de Carregamento Rápido Turbo Xiaomi 18 17 1",
+    "loja": "AliExpress",
+    "preco": 59.19,
+    "precoAntigo": 127.28,
+    "cupom": "",
+    "link": "https://s.click.aliexpress.com/e/_c2yY0cid",
+    "imagem": "img/d70ef2d4ef47cbf5.jpg",
+    "data": "2026-11-27T19:46:27.834Z"
+  },
+  {
     "id": "https://shopee.com.br/verify/traffic/error",
     "titulo": "CAIU MUITO ESSAS POLO WEAR",
     "loja": "Shopee",
@@ -3199,104 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/kit-12-cuecas-boxer-reebok-classic-microfibra-sem-costura/up/MLBU5386518659?matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/22d2206b73b0120b.jpg",
     "data": "2026-11-27T00:56:30.448Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/creality-halot-r6-resina-bivolt-impressora-3d-alta-qualidade-cor-cinza-e-laranja-127-220v/p/mlb59387503",
-    "titulo": "CREALITY HALOT R6: IMPRESSÃO 3D EM RESINA CHEIA DE DETALHE",
-    "loja": "Mercado Livre",
-    "preco": 968.88,
-    "precoAntigo": 1159,
-    "cupom": "TECHOFF",
-    "link": "https://www.mercadolivre.com.br/creality-halot-r6-resina-bivolt-impressora-3d-alta-qualidade-cor-cinza-e-laranja-127-220v/p/MLB59387503?pdp_filters=item_id%3AMLB5874083682&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/cf160b60c4214e15.jpg",
-    "data": "2026-11-27T00:55:17.624Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/aparador-de-pelos-philips-oneblade-qp142410-preto/p/mlb38669458",
-    "titulo": "CORRE MENOR PREÇO NO ONE BLADE 5 EM 1",
-    "loja": "Mercado Livre",
-    "preco": 95,
-    "precoAntigo": 212,
-    "cupom": "GARANTAJAHJ",
-    "link": "https://www.mercadolivre.com.br/aparador-de-pelos-philips-oneblade-qp142410-preto/p/MLB38669458?pdp_filters=item_id%3AMLB7985069620&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/c00eb686d896be31.jpg",
-    "data": "2026-11-27T00:54:17.098Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/ar-condicionado-split-inv-9000-tcl-breeze-in-frio-220v/up/mlbu5854163307",
-    "titulo": "CORRE, MENOR VALOR PARECLADINHO",
-    "loja": "Mercado Livre",
-    "preco": 200,
-    "precoAntigo": 2049,
-    "cupom": "GARANTAJAHJ",
-    "link": "https://www.mercadolivre.com.br/ar-condicionado-split-inv-9000-tcl-breeze-in-frio-220v/up/MLBU5854163307?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/ef1bc1c4d6ab3d71.jpg",
-    "data": "2026-11-27T00:54:15.621Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-2x-600g/p/mlb67348665",
-    "titulo": "RESTOCK PRO FINAL DO ANO TA AI",
-    "loja": "Mercado Livre",
-    "preco": 63.12,
-    "precoAntigo": null,
-    "cupom": "ENERGIAMELI",
-    "link": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-2x-600g/p/MLB67348665?pdp_filters=item_id%3AMLB6538330654&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/9613a12907a290eb.jpg",
-    "data": "2026-11-27T00:52:45.564Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/tenis-masculino-dynasoft-flash-v7-new-balance/up/mlbu3833818312",
-    "titulo": "VALOR ABSURDO DESSE NB FLASH V7",
-    "loja": "Mercado Livre",
-    "preco": 199,
-    "precoAntigo": 599,
-    "cupom": "GARANTAJAHJ",
-    "link": "https://www.mercadolivre.com.br/tenis-masculino-dynasoft-flash-v7-new-balance/up/MLBU3833818312?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/095a865faee5c312.jpg",
-    "data": "2026-11-27T00:52:00.757Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/tenis-nike-ebernon-low-masculino/up/mlbu4022247222",
-    "titulo": "VERSÃO ALL BLACK NO PRECINHO",
-    "loja": "Mercado Livre",
-    "preco": 215,
-    "precoAntigo": 429,
-    "cupom": "GARANTAJAHJ",
-    "link": "https://www.mercadolivre.com.br/tenis-nike-ebernon-low-masculino/up/MLBU4022247222?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/bd25e3318c3d50d2.jpg",
-    "data": "2026-11-27T00:49:00.563Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-72h-pele-firme-e-elasticidade-corporal-pele-seca-e-extrasseca-notas-citricas/p/mlb19312609",
-    "titulo": "HIDRATANTE NIVEA NO PRECINHO",
-    "loja": "Mercado Livre",
-    "preco": 12,
-    "precoAntigo": 43,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-72h-pele-firme-e-elasticidade-corporal-pele-seca-e-extrasseca-notas-citricas/p/MLB19312609?pdp_filters=item_id%3AMLB3253828591&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/e4c79b96599c45b5.jpg",
-    "data": "2026-11-27T00:48:15.587Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/samsung-galaxy-z-flip7-5g-de-256-gb-e-12-gb-ram-galaxy-ai-preto/p/mlb53044618",
-    "titulo": "GALAXY Z FLIP7: O CELULAR QUE CABE NA PALMA DA MÃO",
-    "loja": "Mercado Livre",
-    "preco": 399.9,
-    "precoAntigo": 8199,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/samsung-galaxy-z-flip7-5g-de-256-gb-e-12-gb-ram-galaxy-ai-preto/p/MLB53044618?pdp_filters=item_id%3AMLB5517025778&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/7a47fdc7477c9300.jpg",
-    "data": "2026-11-27T00:45:17.567Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/mascara-capilar-intensiva-pantene-pro-v-restauracao-270-ml/p/mlb16636629",
-    "titulo": "CORREE, MÁSCARA CAPILAR POR 14 CONTO",
-    "loja": "Mercado Livre",
-    "preco": 14,
-    "precoAntigo": 31,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/mascara-capilar-intensiva-pantene-pro-v-restauracao-270-ml/p/MLB16636629?pdp_filters=item_id%3AMLB3666151610&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/31e269e91848dc85.jpg",
-    "data": "2026-11-27T00:43:45.501Z"
   }
 ]
