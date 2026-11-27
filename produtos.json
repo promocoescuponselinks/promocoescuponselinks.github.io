@@ -1,5 +1,38 @@
 [
   {
+    "id": "https://www.amazon.com.br/rapunzel-shampoo-t%c3%b4nico-milk-spray/dp/b0ghp4nl1j",
+    "titulo": "PREÇÃO NO KIT RAPUNZEL DA LOLA, CORRE",
+    "loja": "Amazon",
+    "preco": 49,
+    "precoAntigo": 119,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=achadin022061-20",
+    "imagem": "img/f994f25f863ddf80.jpg",
+    "data": "2026-11-27T17:32:31.534Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/liquidificador-philco-1200w-3l-12-velocidades-preto-ph900/p/mlb15578941",
+    "titulo": "LIQUIDIFICADOR PRA FAZER SEU WHEY DE PRÉ TREINO",
+    "loja": "Mercado Livre",
+    "preco": 94.9,
+    "precoAntigo": 265,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/liquidificador-philco-1200w-3l-12-velocidades-preto-ph900/p/MLB15578941?pdp_filters=item_id%3AMLB1942049788&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/9f175e29ef00e248.jpg",
+    "data": "2026-11-27T17:32:28.620Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/iphone-air-de-1tb-dourado-claro-somente-esim-distribuidor-autorizado/p/mlb1054107088",
+    "titulo": "1TB DE IPHONE AIR NO MENOR VALOR",
+    "loja": "Mercado Livre",
+    "preco": 5579,
+    "precoAntigo": 13499,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/iphone-air-de-1tb-dourado-claro-somente-esim-distribuidor-autorizado/p/MLB1054107088?pdp_filters=item_id%3AMLB5687348450&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/9a04424f6599d253.jpg",
+    "data": "2026-11-27T17:29:57.930Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/ar-condicionado-split-lg-inverter-smart-ai-12000-btus-frio-branco/p/mlb64486812",
     "titulo": "PRECINHO NESSA AR 12K",
     "loja": "Mercado Livre",
@@ -3265,38 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/mochila-nike-elemental-unissex/up/MLBU3821645495?matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/79c02877e447d363.jpg",
     "data": "2026-11-26T18:41:18.529Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/tenis-masculino-casual-aramis-daily-slip-confortavel-moderno/up/mlbu4398970507",
-    "titulo": "VOLTOOOOU O MENOR PREÇO NESSE ARAMIS",
-    "loja": "Mercado Livre",
-    "preco": 101,
-    "precoAntigo": 339,
-    "cupom": "MPODAWSB82GA6",
-    "link": "https://www.mercadolivre.com.br/tenis-masculino-casual-aramis-daily-slip-confortavel-moderno/up/MLBU4398970507?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/f2cc6bcdd65daeaf.jpg",
-    "data": "2026-11-26T18:40:33.414Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0h4s7d2tt",
-    "titulo": "MENOR VALOR HISTÓRICO",
-    "loja": "Amazon",
-    "preco": 93,
-    "precoAntigo": 259,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0H4S7D2TT?tag=achadin022061-20",
-    "imagem": "img/798908c628f8f94c.jpg",
-    "data": "2026-11-26T18:39:06.782Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/lavadora-alta-pressao-portatil-recarregavel-sem-fio-bivolt/up/mlbu3860853413",
-    "titulo": "MENOR PREÇO NESSA LAVADORA",
-    "loja": "Mercado Livre",
-    "preco": 65,
-    "precoAntigo": 206,
-    "cupom": "OFERTAVIP",
-    "link": "https://www.mercadolivre.com.br/lavadora-alta-pressao-portatil-recarregavel-sem-fio-bivolt/up/MLBU3860853413?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/b42d3423321910aa.jpg",
-    "data": "2026-11-26T18:39:03.500Z"
   }
 ]
