@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://shopee.com.br/verify/traffic/error",
+    "titulo": "CAIU MUITO ESSAS POLO WEAR",
+    "loja": "Shopee",
+    "preco": 65,
+    "precoAntigo": 179,
+    "cupom": "",
+    "link": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1670999424%2F58252712719%2F&type=4&mmp_pid=an_18328560568&utm_source=an_18328560568&utm_medium=affiliates&utm_campaign=bot",
+    "imagem": "img/ea80e3a8e27d8042.jpg",
+    "data": "2026-11-27T19:45:47.025Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-calvin-klein-ck-one-200ml/p/mlb6093745",
+    "titulo": "MENOR VALOR HISTÓRICO PARCELADO",
+    "loja": "Mercado Livre",
+    "preco": 235,
+    "precoAntigo": 659,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-calvin-klein-ck-one-200ml/p/MLB6093745?pdp_filters=item_id%3AMLB4418529714&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/1e752d1632bf9d45.jpg",
+    "data": "2026-11-27T19:43:28.981Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/kit-10-potes-de-vidro-hermeticos-640ml-retangulares-para-marmita-com-4-travas-e-vedacao/p/mlb72081098",
+    "titulo": "NOVO CUPOM MERCADO LIVRE",
+    "loja": "Mercado Livre",
+    "preco": 60,
+    "precoAntigo": 119,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/kit-10-potes-de-vidro-hermeticos-640ml-retangulares-para-marmita-com-4-travas-e-vedacao/p/MLB72081098?pdp_filters=item_id%3AMLB8065764036&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/235554881122cbba.jpg",
+    "data": "2026-11-27T19:42:28.805Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-5212450468-tnis-hocks-unissex-sintetico-oriente-x-tech-liquidaco-_jm",
+    "titulo": "HOCKS ORIENTE X-TECH: CONFORTO COM CARA DE SKATE",
+    "loja": "Mercado Livre",
+    "preco": 147,
+    "precoAntigo": 459.99,
+    "cupom": "BLACKMELI",
+    "link": "https://produto.mercadolivre.com.br/MLB-5212450468-tnis-hocks-unissex-sintetico-oriente-x-tech-liquidaco-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/bfbb35f4973e5337.jpg",
+    "data": "2026-11-27T19:40:28.757Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/zero-pore-pad-medicube-20-70-pads-importado-100-coreano/up/mlbu5221684701",
+    "titulo": "O QUERIDINHO DAS COREANAS",
+    "loja": "Mercado Livre",
+    "preco": 68,
+    "precoAntigo": 186,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/zero-pore-pad-medicube-20-70-pads-importado-100-coreano/up/MLBU5221684701?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e791a220a2b82403.jpg",
+    "data": "2026-11-27T19:36:43.836Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/perfume-rabanne-olympea-parfum-80ml-feminino/p/mlb36240047",
     "titulo": "DESPENCOU O PREÇO, outro presentaço pra sua amada",
     "loja": "Mercado Livre",
@@ -3243,60 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/mascara-capilar-intensiva-pantene-pro-v-restauracao-270-ml/p/MLB16636629?pdp_filters=item_id%3AMLB3666151610&matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/31e269e91848dc85.jpg",
     "data": "2026-11-27T00:43:45.501Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/mala-duffel-tiro-adidas/up/mlbu4146884414",
-    "titulo": "PRA LEVAR A CASA INTEIRA PRA ACADEMIA",
-    "loja": "Mercado Livre",
-    "preco": 164.04,
-    "precoAntigo": null,
-    "cupom": "FASHION",
-    "link": "https://www.mercadolivre.com.br/mala-duffel-tiro-adidas/up/MLBU4146884414?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/e5373cb1cbba5a0a.jpg",
-    "data": "2026-11-27T00:42:15.124Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/clear-men-shampoo-2-em-1-anticaspa-limpeza-diaria-400-ml/p/mlb19508953",
-    "titulo": "NOVO CUPOM NO ML",
-    "loja": "Mercado Livre",
-    "preco": 60,
-    "precoAntigo": 79,
-    "cupom": "GARANTAJAHJ",
-    "link": "https://www.mercadolivre.com.br/clear-men-shampoo-2-em-1-anticaspa-limpeza-diaria-400-ml/p/MLB19508953?pdp_filters=item_id%3AMLB3272797429&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/8e80abcb6cf241fe.jpg",
-    "data": "2026-11-27T00:40:48.395Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0cq28z6cw",
-    "titulo": "LACOSTE PRA ELAS",
-    "loja": "Amazon",
-    "preco": 126,
-    "precoAntigo": 299,
-    "cupom": "BFFRAG15",
-    "link": "https://www.amazon.com.br/dp/B0CQ28Z6CW?tag=achadin022061-20",
-    "imagem": "img/37a5d17ee916abec.jpg",
-    "data": "2026-11-27T00:40:46.699Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/samsung-crystal-u8000h-companion-est%c3%a1dio/dp/b0hbybb54n",
-    "titulo": "65\" SAMSUNG PARCELADINHA",
-    "loja": "Amazon",
-    "preco": 3199,
-    "precoAntigo": null,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0HBYBB54N?tag=achadin022061-20",
-    "imagem": "img/9986cdcda5ba46c8.jpg",
-    "data": "2026-11-27T00:39:16.599Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/tenis-tesla-coil-white-uv-unissex-branco/up/mlbu5613657013",
-    "titulo": "TESLA COIL WHITE UV: BRANQUINHO COM ATITUDE 🤍",
-    "loja": "Mercado Livre",
-    "preco": 188.91,
-    "precoAntigo": 399.9,
-    "cupom": "PROMOAGORA",
-    "link": "https://www.mercadolivre.com.br/tenis-tesla-coil-white-uv-unissex-branco/up/MLBU5613657013?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/73649bd3005cb718.jpg",
-    "data": "2026-11-27T00:35:17.442Z"
   }
 ]
