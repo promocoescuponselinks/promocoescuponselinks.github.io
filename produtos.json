@@ -1,5 +1,93 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b089b634n9",
+    "titulo": "DUX É O MELHOR QUE EXISTE",
+    "loja": "Amazon",
+    "preco": 172,
+    "precoAntigo": 299,
+    "cupom": "BLACKSONHO",
+    "link": "https://www.amazon.com.br/dp/B089B634N9?tag=achadin022061-20",
+    "imagem": "img/bfa77a11e75c14b2.jpg",
+    "data": "2026-11-27T15:45:01.046Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4119206697-camisa-camiseta-polo-masculina-texturizada-sem-boto-_jm",
+    "titulo": "PRECINHO NA CAMISA POLO TEXTURIZADA",
+    "loja": "Mercado Livre",
+    "preco": 43,
+    "precoAntigo": 159,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-4119206697-camisa-camiseta-polo-masculina-texturizada-sem-boto-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/2c9b3679f8ade4f9.jpg",
+    "data": "2026-11-27T15:44:28.225Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0d7mx79md",
+    "titulo": "PREÇÃO NA MELHOR BARRINHA DE TODAS",
+    "loja": "Amazon",
+    "preco": 67,
+    "precoAntigo": 125,
+    "cupom": "BLACKSONHO",
+    "link": "https://www.amazon.com.br/dp/B0D7MX79MD?tag=achadin022061-20",
+    "imagem": "img/d5b7ae7aeca87978.jpg",
+    "data": "2026-11-27T15:44:14.376Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-3396120483-calca-mom-jeans-feminina-cintura-alta-marmorizada-_jm",
+    "titulo": "47 CONTO NA CALÇA CINTURA ALTA MOM JEANS!",
+    "loja": "Mercado Livre",
+    "preco": 47,
+    "precoAntigo": 110,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-3396120483-calca-mom-jeans-feminina-cintura-alta-marmorizada-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/1c2b0762b14d6cf0.jpg",
+    "data": "2026-11-27T15:42:28.054Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0hcrgb8x7",
+    "titulo": "MENOR PREÇO NO MULTIVITAMÍNICO",
+    "loja": "Amazon",
+    "preco": 35,
+    "precoAntigo": 65,
+    "cupom": "BLACKSONHO",
+    "link": "https://www.amazon.com.br/dp/B0HCRGB8X7?tag=achadin022061-20",
+    "imagem": "img/053eae874947d878.jpg",
+    "data": "2026-11-27T15:41:57.942Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/camiseta-t-shit-feminina-malha-peruana-basica-oversized/up/mlbu5310637717",
+    "titulo": "OVERSIZED PRA ELAS",
+    "loja": "Mercado Livre",
+    "preco": 41,
+    "precoAntigo": 109,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/camiseta-t-shit-feminina-malha-peruana-basica-oversized/up/MLBU5310637717?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/90def3ee92d8ddfe.jpg",
+    "data": "2026-11-27T15:41:11.706Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0hdfv9xdd",
+    "titulo": "CORRE MENOR PREÇO NA CREATINA GROWTH",
+    "loja": "Amazon",
+    "preco": 44,
+    "precoAntigo": 84,
+    "cupom": "BLACKSONHO",
+    "link": "https://www.amazon.com.br/dp/B0HDFV9XDD?tag=achadin022061-20",
+    "imagem": "img/273442009cdb7bb9.jpg",
+    "data": "2026-11-27T15:38:59.407Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/camisa-polo-masculina-piquet-slim-manga-curta/up/mlbu5088763342",
+    "titulo": "28 CONTO TÁ DADA A POLO",
+    "loja": "Mercado Livre",
+    "preco": 28,
+    "precoAntigo": 79,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/camisa-polo-masculina-piquet-slim-manga-curta/up/MLBU5088763342?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/1cc328f0eec309bd.jpg",
+    "data": "2026-11-27T15:38:56.599Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/sabonete-liquido-corporal-hydraporin-ai-200ml-mantecorp-skincare/p/mlb19811579",
     "titulo": "PREÇÃO NESSE SABONETE LÍQUIDO",
     "loja": "Mercado Livre",
@@ -3210,93 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/perfume-carolina-herrera-212-vip-men-eau-de-toilette-200ml-masculino/p/MLB6139411?pdp_filters=item_id%3AMLB4145328778&matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/a47f82570f04c645.jpg",
     "data": "2026-11-26T15:16:38.712Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0djfskvz5",
-    "titulo": "BOM PREÇO NO IPHONE 16 DE 256GB",
-    "loja": "Amazon",
-    "preco": null,
-    "precoAntigo": null,
-    "cupom": "15IMPERDIVEL",
-    "link": "https://www.amazon.com.br/dp/B0DJFSKVZ5?tag=achadin022061-20",
-    "imagem": "img/18a5fa0c0b3b7e96.jpg",
-    "data": "2026-11-26T15:15:09.755Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-3806655487-tnis-flyer-runner-mesh-bdp-puma-_jm",
-    "titulo": "O PUMA MAIS VENDIDO DO ML",
-    "loja": "Mercado Livre",
-    "preco": 161,
-    "precoAntigo": 329,
-    "cupom": "MAISDESCONTODEZ",
-    "link": "https://produto.mercadolivre.com.br/MLB-3806655487-tnis-flyer-runner-mesh-bdp-puma-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/e8bf661f14e88278.jpg",
-    "data": "2026-11-26T15:13:38.609Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/lg-ultragear-monitor-gamer-32-va-165hz-1ms-mbr-qhd-2k-2560x1440-hdr10-amd-freesync-preto-32gn600/p/mlb24061510",
-    "titulo": "MONITORZÃO 32\" NO PREÇÃO",
-    "loja": "Mercado Livre",
-    "preco": 854,
-    "precoAntigo": 2180,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/lg-ultragear-monitor-gamer-32-va-165hz-1ms-mbr-qhd-2k-2560x1440-hdr10-amd-freesync-preto-32gn600/p/MLB24061510?pdp_filters=item_id%3AMLB5299585130&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/12e5b8529108477b.jpg",
-    "data": "2026-11-26T15:12:54.660Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b07lfgwrc7",
-    "titulo": "SHAMPOO MAIS VENDIDO DA AMAZON",
-    "loja": "Amazon",
-    "preco": 18,
-    "precoAntigo": 39,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B07LFGWRC7?tag=achadin022061-20",
-    "imagem": "img/510fbfbc6757f9b5.jpg",
-    "data": "2026-11-26T15:10:40.055Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g/p/mlb19603205",
-    "titulo": "A CREATINA MAIS VENDIDA DO ML",
-    "loja": "Mercado Livre",
-    "preco": 32,
-    "precoAntigo": 64,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g/p/MLB19603205?pdp_filters=item_id%3AMLB5872060016&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/2f5f93621651d81c.jpg",
-    "data": "2026-11-26T15:08:23.622Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0h56yppvp",
-    "titulo": "MICRO-ONDAS GRANDE PARCELADO",
-    "loja": "Amazon",
-    "preco": 419,
-    "precoAntigo": 681,
-    "cupom": "IMPERDIVEL30",
-    "link": "https://www.amazon.com.br/dp/B0H56YPPVP?tag=achadin022061-20",
-    "imagem": "img/ccd9b62d7fba255d.jpg",
-    "data": "2026-11-26T15:07:42.854Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-4512452222-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel-_jm",
-    "titulo": "CONTEI E TEM 400 FIOS MESMO",
-    "loja": "Mercado Livre",
-    "preco": 22,
-    "precoAntigo": 42,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-4512452222-jogo-de-lencol-queen-3-pecas-400-fios-c-elastico-hotel-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/13be3fb7e13f9135.jpg",
-    "data": "2026-11-26T15:07:40.065Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0h7yx7wqj",
-    "titulo": "TV QLED COM QUALIDADE ABSURDA",
-    "loja": "Amazon",
-    "preco": 3699,
-    "precoAntigo": 4259,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0H7YX7WQJ?tag=achadin022061-20",
-    "imagem": "img/30b82b5a5dce8cec.jpg",
-    "data": "2026-11-26T15:06:09.858Z"
   }
 ]
