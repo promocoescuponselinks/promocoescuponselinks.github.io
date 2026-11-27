@@ -1,5 +1,93 @@
 [
   {
+    "id": "https://www.mercadolivre.com.br/tenis-nike-ebernon-low-masculino/up/mlbu4022247222",
+    "titulo": "VERSÃO ALL BLACK NO PRECINHO",
+    "loja": "Mercado Livre",
+    "preco": 215,
+    "precoAntigo": 429,
+    "cupom": "GARANTAJAHJ",
+    "link": "https://www.mercadolivre.com.br/tenis-nike-ebernon-low-masculino/up/MLBU4022247222?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/bd25e3318c3d50d2.jpg",
+    "data": "2026-11-27T00:49:00.563Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-72h-pele-firme-e-elasticidade-corporal-pele-seca-e-extrasseca-notas-citricas/p/mlb19312609",
+    "titulo": "HIDRATANTE NIVEA NO PRECINHO",
+    "loja": "Mercado Livre",
+    "preco": 12,
+    "precoAntigo": 43,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-72h-pele-firme-e-elasticidade-corporal-pele-seca-e-extrasseca-notas-citricas/p/MLB19312609?pdp_filters=item_id%3AMLB3253828591&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e4c79b96599c45b5.jpg",
+    "data": "2026-11-27T00:48:15.587Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/samsung-galaxy-z-flip7-5g-de-256-gb-e-12-gb-ram-galaxy-ai-preto/p/mlb53044618",
+    "titulo": "GALAXY Z FLIP7: O CELULAR QUE CABE NA PALMA DA MÃO",
+    "loja": "Mercado Livre",
+    "preco": 399.9,
+    "precoAntigo": 8199,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/samsung-galaxy-z-flip7-5g-de-256-gb-e-12-gb-ram-galaxy-ai-preto/p/MLB53044618?pdp_filters=item_id%3AMLB5517025778&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/7a47fdc7477c9300.jpg",
+    "data": "2026-11-27T00:45:17.567Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/mascara-capilar-intensiva-pantene-pro-v-restauracao-270-ml/p/mlb16636629",
+    "titulo": "CORREE, MÁSCARA CAPILAR POR 14 CONTO",
+    "loja": "Mercado Livre",
+    "preco": 14,
+    "precoAntigo": 31,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/mascara-capilar-intensiva-pantene-pro-v-restauracao-270-ml/p/MLB16636629?pdp_filters=item_id%3AMLB3666151610&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/31e269e91848dc85.jpg",
+    "data": "2026-11-27T00:43:45.501Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/mala-duffel-tiro-adidas/up/mlbu4146884414",
+    "titulo": "PRA LEVAR A CASA INTEIRA PRA ACADEMIA",
+    "loja": "Mercado Livre",
+    "preco": 164.04,
+    "precoAntigo": null,
+    "cupom": "FASHION",
+    "link": "https://www.mercadolivre.com.br/mala-duffel-tiro-adidas/up/MLBU4146884414?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e5373cb1cbba5a0a.jpg",
+    "data": "2026-11-27T00:42:15.124Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/clear-men-shampoo-2-em-1-anticaspa-limpeza-diaria-400-ml/p/mlb19508953",
+    "titulo": "NOVO CUPOM NO ML",
+    "loja": "Mercado Livre",
+    "preco": 60,
+    "precoAntigo": 79,
+    "cupom": "GARANTAJAHJ",
+    "link": "https://www.mercadolivre.com.br/clear-men-shampoo-2-em-1-anticaspa-limpeza-diaria-400-ml/p/MLB19508953?pdp_filters=item_id%3AMLB3272797429&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/8e80abcb6cf241fe.jpg",
+    "data": "2026-11-27T00:40:48.395Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0cq28z6cw",
+    "titulo": "LACOSTE PRA ELAS",
+    "loja": "Amazon",
+    "preco": 126,
+    "precoAntigo": 299,
+    "cupom": "BFFRAG15",
+    "link": "https://www.amazon.com.br/dp/B0CQ28Z6CW?tag=achadin022061-20",
+    "imagem": "img/37a5d17ee916abec.jpg",
+    "data": "2026-11-27T00:40:46.699Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/samsung-crystal-u8000h-companion-est%c3%a1dio/dp/b0hbybb54n",
+    "titulo": "65\" SAMSUNG PARCELADINHA",
+    "loja": "Amazon",
+    "preco": 3199,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0HBYBB54N?tag=achadin022061-20",
+    "imagem": "img/9986cdcda5ba46c8.jpg",
+    "data": "2026-11-27T00:39:16.599Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/tenis-tesla-coil-white-uv-unissex-branco/up/mlbu5613657013",
     "titulo": "TESLA COIL WHITE UV: BRANQUINHO COM ATITUDE 🤍",
     "loja": "Mercado Livre",
@@ -3210,93 +3298,5 @@
     "link": "https://produto.mercadolivre.com.br/MLB-4039204663-tnis-wired-run-puma-_JM?matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/ed565b6670cd8ec3.jpg",
     "data": "2026-11-26T14:21:10.376Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-dark-lab-sabor-baunilha/p/mlb40367709",
-    "titulo": "O URUBU SABE QUE SEU WHEY TA ACABANDO",
-    "loja": "Mercado Livre",
-    "preco": null,
-    "precoAntigo": null,
-    "cupom": "SUPEROFERTA",
-    "link": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-dark-lab-sabor-baunilha/p/MLB40367709?pdp_filters=item_id%3AMLB5278735564&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/b62e9e9edea5de10.jpg",
-    "data": "2026-11-26T14:21:09.067Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/carregador-power-bank-sem-fio-samsung-potencia-de-45-w-20000-mah-cor-bege-carregamento-super-rapido-20/p/mlb38617889",
-    "titulo": "DONO DE CARRO ELÉTRICO FICA LOUCO COM ESSA PROMO",
-    "loja": "Mercado Livre",
-    "preco": null,
-    "precoAntigo": null,
-    "cupom": "SUPEROFERTA",
-    "link": "https://www.mercadolivre.com.br/carregador-power-bank-sem-fio-samsung-potencia-de-45-w-20000-mah-cor-bege-carregamento-super-rapido-20/p/MLB38617889?pdp_filters=item_id%3AMLB4439564675&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/196ba912649a5503.jpg",
-    "data": "2026-11-26T14:21:07.826Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/principia-kit-essencial-gl-02-ch-vc-ps/p/mlb69377325",
-    "titulo": "CORRE DESPENCOU DE PREÇO O KIT DA PRINCIPIA",
-    "loja": "Mercado Livre",
-    "preco": 86,
-    "precoAntigo": 249,
-    "cupom": "BELEZABLACK",
-    "link": "https://www.mercadolivre.com.br/principia-kit-essencial-gl-02-ch-vc-ps/p/MLB69377325?pdp_filters=item_id%3AMLB4667958959&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/0bfb5606b3332489.jpg",
-    "data": "2026-11-26T14:19:40.634Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0fqhx64gt",
-    "titulo": "CORREEE ATENÇÃO RICOS",
-    "loja": "Amazon",
-    "preco": 9799,
-    "precoAntigo": 14999,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0FQHX64GT?tag=achadin022061-20",
-    "imagem": "img/f7c5b5d0dcfe89b5.jpg",
-    "data": "2026-11-26T14:19:39.233Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b075thdwv3",
-    "titulo": "CORRE CAIU DEMAIS PREÇO DESSA PANELA",
-    "loja": "Amazon",
-    "preco": 175,
-    "precoAntigo": 303,
-    "cupom": "IMPERDIVEL30",
-    "link": "https://www.amazon.com.br/dp/B075THDWV3?tag=achadin022061-20",
-    "imagem": "img/a5b5263de6c7435c.jpg",
-    "data": "2026-11-26T14:18:54.219Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/controle-sem-fio-sony-dualsense-playstation-5-bluetooth/up/mlbu5174377568",
-    "titulo": "CORRE DUALSENSE DIFERENCIADO",
-    "loja": "Mercado Livre",
-    "preco": 290,
-    "precoAntigo": 562,
-    "cupom": "SUPEROFERTA",
-    "link": "https://www.mercadolivre.com.br/controle-sem-fio-sony-dualsense-playstation-5-bluetooth/up/MLBU5174377568?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/226e274e359637d8.jpg",
-    "data": "2026-11-26T14:18:11.267Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/filtro-de-linha-com-protetor-de-surto-dps-iclamper-energia-8-tomadas-3-pinos-10-amperes-com-tecnologia-lcf-anti-raio-cor-preto/p/mlb22881394",
-    "titulo": "MELHOR QUE TER QUE TROCAR O PC INTEIRO",
-    "loja": "Mercado Livre",
-    "preco": null,
-    "precoAntigo": null,
-    "cupom": "SUPEROFERTA",
-    "link": "https://www.mercadolivre.com.br/filtro-de-linha-com-protetor-de-surto-dps-iclamper-energia-8-tomadas-3-pinos-10-amperes-com-tecnologia-lcf-anti-raio-cor-preto/p/MLB22881394?pdp_filters=item_id%3AMLB3934561787&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/308edd06efeab5f0.jpg",
-    "data": "2026-11-26T14:18:07.801Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/mouse-gamer-sem-fio-fire-phoenix-24000dpi-paw3311-branco/p/mlb65568464",
-    "titulo": "CHEGA DE FIOS NO SEU SETUP",
-    "loja": "Mercado Livre",
-    "preco": null,
-    "precoAntigo": null,
-    "cupom": "SUPEROFERTA",
-    "link": "https://www.mercadolivre.com.br/mouse-gamer-sem-fio-fire-phoenix-24000dpi-paw3311-branco/p/MLB65568464?pdp_filters=item_id%3AMLB6312750590&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/5fc2b05779f65555.jpg",
-    "data": "2026-11-26T14:17:22.906Z"
   }
 ]
