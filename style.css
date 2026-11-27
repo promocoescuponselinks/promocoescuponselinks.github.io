@@ -202,3 +202,8 @@ time { font-size: .75rem; color: var(--sub); text-align: center; }
 .hero a { color: var(--cor2); font-weight: 600; }
 .marca { display: inline-flex; align-items: center; gap: 8px; }
 .marca-logo { width: 36px; height: 36px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 0 0 1px var(--borda); }
+.barra-ordem { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 8px 0 12px; }
+.barra-ordem .contador { margin: 0; }
+.ordem { font-size: .9rem; color: var(--sub); display: inline-flex; align-items: center; gap: 6px; }
+.ordem select { font: inherit; color: var(--txt); background: var(--card); border: 1px solid var(--borda); border-radius: 10px; padding: 8px 10px; cursor: pointer; }
+.ordem select:focus { outline: 2px solid var(--cor); }

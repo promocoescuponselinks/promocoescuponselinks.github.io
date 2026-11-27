@@ -25,6 +25,30 @@
     if (vazio) vazio.hidden = n > 0;
   }
   q?.addEventListener("input", aplicar);
+
+  // Ordenar: mais recentes / menor preço / maior preço / maior desconto (sem preço vai pro fim)
+  const ordem = $("#ordem"), grade = $("#grade");
+  function ordenar() {
+    if (!ordem || !grade) return;
+    const modo = ordem.value;
+    const num = (c, k) => parseFloat(c.dataset[k]);
+    const sorted = [...cards].sort((a, b) => {
+      if (modo === "recentes") return num(a, "ordem") - num(b, "ordem");
+      if (modo === "desconto") return (num(b, "desconto") || 0) - (num(a, "desconto") || 0);
+      const pa = num(a, "preco"), pb = num(b, "preco");
+      if (isNaN(pa) && isNaN(pb)) return 0;
+      if (isNaN(pa)) return 1;
+      if (isNaN(pb)) return -1;
+      return modo === "barato" ? pa - pb : pb - pa;
+    });
+    for (const c of sorted) grade.appendChild(c);
+    try { localStorage.setItem("ordem", modo); } catch {}
+  }
+  if (ordem) {
+    try { const salvo = localStorage.getItem("ordem"); if (salvo) ordem.value = salvo; } catch {}
+    ordem.addEventListener("change", ordenar);
+    if (ordem.value !== "recentes") ordenar();
+  }
   filtros?.addEventListener("click", (e) => {
     const b = e.target.closest("button"); if (!b) return;
     filtro = b.dataset.filtro;
