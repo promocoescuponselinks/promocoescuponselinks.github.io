@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0dqr35qbh",
+    "titulo": "BAIXOU O KIT DA GOPRO",
+    "loja": "Amazon",
+    "preco": 936,
+    "precoAntigo": 1420,
+    "cupom": "25IMPERDIVEL",
+    "link": "https://www.amazon.com.br/dp/B0DQR35QBH?tag=achadin022061-20",
+    "imagem": "img/499732ad8237214a.jpg",
+    "data": "2026-11-28T12:51:27.197Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0f691qzm6",
+    "titulo": "SUA SEGUNDA TELA NO PRECIN",
+    "loja": "Amazon",
+    "preco": 359.25,
+    "precoAntigo": null,
+    "cupom": "25IMPERDIVEL",
+    "link": "https://www.amazon.com.br/dp/B0F691QZM6?tag=achadin022061-20",
+    "imagem": "img/213a014f1ddad632.jpg",
+    "data": "2026-11-28T12:51:24.544Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-sedutor-arabe-sabah-100ml-original-feminino/up/mlbu3507022583",
+    "titulo": "MENOS DE 100 CONTO NO ÁRABE FEMININO",
+    "loja": "Mercado Livre",
+    "preco": 35,
+    "precoAntigo": 230,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-sedutor-arabe-sabah-100ml-original-feminino/up/MLBU3507022583?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/e695fcc526b0a5f0.jpg",
+    "data": "2026-11-28T12:49:08.481Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/petisco-gatos-chuchups-cream-pote-sortido-com-24-saches/up/mlbu3429382286",
+    "titulo": "PETISCO CREAM: O MIMO QUE O GATO AMA 🐱",
+    "loja": "Mercado Livre",
+    "preco": 52.42,
+    "precoAntigo": 125.59,
+    "cupom": "CORREPROAPP25",
+    "link": "https://www.mercadolivre.com.br/petisco-gatos-chuchups-cream-pote-sortido-com-24-saches/up/MLBU3429382286?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/041698e7414ecfb5.jpg",
+    "data": "2026-11-28T12:48:08.498Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/celular-samsung-galaxy-c%c3%a2mera-qu%c3%a1drupla/dp/b0gkqfr5fq",
+    "titulo": "S26 ULTRA BAIXOU DE PREÇO",
+    "loja": "Amazon",
+    "preco": 5798,
+    "precoAntigo": 11499,
+    "cupom": "25IMPERDIVEL",
+    "link": "https://www.amazon.com.br/dp/B0GKQFR5FQ?tag=achadin022061-20",
+    "imagem": "img/aaa61a4420516cfc.jpg",
+    "data": "2026-11-28T12:47:39.563Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/lava-roupas-liquido-tixan-ype-primavera-7-litros/p/mlb19466433",
+    "titulo": "MANO!! 7 LITROS DE LAVA ROUPAS",
+    "loja": "Mercado Livre",
+    "preco": 48,
+    "precoAntigo": 95,
+    "cupom": "MELIGVN",
+    "link": "https://www.mercadolivre.com.br/lava-roupas-liquido-tixan-ype-primavera-7-litros/p/MLB19466433?pdp_filters=item_id%3AMLB3798323167&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/c9013641837ae834.jpg",
+    "data": "2026-11-28T12:46:08.516Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-asad-elixir-masculino-edp-100ml-com-nf/p/mlb80583488",
+    "titulo": "INSPIRADO NO HUGO BOTTLED ABSOLU",
+    "loja": "Mercado Livre",
+    "preco": 35,
+    "precoAntigo": 419,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-asad-elixir-masculino-edp-100ml-com-nf/p/MLB80583488?pdp_filters=item_id%3AMLB6183088862&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/dd08cba7523d29e4.jpg",
+    "data": "2026-11-28T12:44:39.824Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4258109581-kit-2-legging-grossa-feminina-cintura-alta-fitness-academia-_jm",
+    "titulo": "SEU NOVO UNIFORME DE TREINO AI Ó",
+    "loja": "Mercado Livre",
+    "preco": 39.87,
+    "precoAntigo": null,
+    "cupom": "CORREAQUIML30",
+    "link": "https://produto.mercadolivre.com.br/MLB-4258109581-kit-2-legging-grossa-feminina-cintura-alta-fitness-academia-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/a608b503917c3e1d.jpg",
+    "data": "2026-11-28T12:44:38.076Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-5143190942-macaquinho-short-saia-curto-verao-soltinho-vestido-feminino-_jm",
+    "titulo": "MACAQUINHO SHORT SAIA: SOLTINHO PRO CALOR, perfeito pras festas de fim de ano",
+    "loja": "Mercado Livre",
+    "preco": 48.56,
+    "precoAntigo": 78.99,
+    "cupom": "PROMOFLASH18",
+    "link": "https://produto.mercadolivre.com.br/MLB-5143190942-macaquinho-short-saia-curto-verao-soltinho-vestido-feminino-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/87623fc128cef039.jpg",
+    "data": "2026-11-28T12:44:08.579Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/serra-corte-rapida-policorte-8pol-1600w-205mm-5000rpm-mestri-m-313-amarelo/p/mlb75368429",
     "titulo": "ELES FAZEM NA MALDADE PQP🤤",
     "loja": "Mercado Livre",
@@ -3199,104 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/relogio-life-feminino-aco-rose-rose-prateado/p/MLB68379625?pdp_filters=item_id%3AMLB4625629839&matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/4f5d3b5712c62873.jpg",
     "data": "2026-11-27T18:31:28.062Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-gsb-450-re-450w-10mm-com-brocas-e-buchas/p/mlb40832800",
-    "titulo": "PREÇÃO NA FURADEIRA DA BOSCH",
-    "loja": "Mercado Livre",
-    "preco": 226,
-    "precoAntigo": 492,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-gsb-450-re-450w-10mm-com-brocas-e-buchas/p/MLB40832800?pdp_filters=item_id%3AMLB4221905591&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/d6532c35f0cbed50.jpg",
-    "data": "2026-11-27T18:30:43.138Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/amazon-echo-dot-5-geracao-smart-speaker-com-alexa-cor-preto-charcoal/p/mlb19795010",
-    "titulo": "NOVO CUPOM MERCADO LIVRE",
-    "loja": "Mercado Livre",
-    "preco": 50,
-    "precoAntigo": 350,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/amazon-echo-dot-5-geracao-smart-speaker-com-alexa-cor-preto-charcoal/p/MLB19795010?pdp_filters=item_id%3AMLB4693155035&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/24060affeff06687.jpg",
-    "data": "2026-11-27T18:30:28.376Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/guarda-roupa-casal-6-portas-easy-slim-com-espelho-e-pes-amendoaoff-white/p/mlb59113801",
-    "titulo": "GUARDA ROUPA DE CASAL NO PRECINHO",
-    "loja": "Mercado Livre",
-    "preco": 699,
-    "precoAntigo": 1607,
-    "cupom": "CUPONOMOVEIS",
-    "link": "https://www.mercadolivre.com.br/guarda-roupa-casal-6-portas-easy-slim-com-espelho-e-pes-amendoaoff-white/p/MLB59113801?pdp_filters=item_id%3AMLB4595583763&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/326414bf1ec16acf.jpg",
-    "data": "2026-11-27T18:29:15.135Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-brisa-banho-4-pecas-cor-cinzagrafite/p/mlb53611325",
-    "titulo": "PREÇÃO NAS TOALHAS BUDDEMEYER",
-    "loja": "Mercado Livre",
-    "preco": 108,
-    "precoAntigo": 229,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-brisa-banho-4-pecas-cor-cinzagrafite/p/MLB53611325?pdp_filters=item_id%3AMLB5315355099&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/60527917d5a4be8c.jpg",
-    "data": "2026-11-27T18:29:13.660Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/mesa-de-jantar-120x807cm-tampo-com-vidro-4-cadeiras-fg/p/mlb60257806",
-    "titulo": "PRA RENOVAR A SUA SALA DE JANTAR HOJE",
-    "loja": "Mercado Livre",
-    "preco": 881,
-    "precoAntigo": 1392,
-    "cupom": "CUPONOMOVEIS",
-    "link": "https://www.mercadolivre.com.br/mesa-de-jantar-120x807cm-tampo-com-vidro-4-cadeiras-fg/p/MLB60257806?pdp_filters=item_id%3AMLB5834705710&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/10a6e07e8ac9cdcb.jpg",
-    "data": "2026-11-27T18:28:31.572Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book-go-windows-11-home-snapdragon-7c-4gb-128gb-ufs-14-full-hd-led-138kg-com-copilot-integrado/p/mlb51558073",
-    "titulo": "PRECINHO NO BOOK 4 DA SAMSUNG",
-    "loja": "Mercado Livre",
-    "preco": 1799,
-    "precoAntigo": 2899,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book-go-windows-11-home-snapdragon-7c-4gb-128gb-ufs-14-full-hd-led-138kg-com-copilot-integrado/p/MLB51558073?pdp_filters=item_id%3AMLB6063854268&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/61f35d590a54a8d0.jpg",
-    "data": "2026-11-27T18:28:30.118Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-1776426827-best-whey-900g-todos-sabores-atlhetica-nutrition-_jm",
-    "titulo": "TODOS OS SABORES DO BEST WHEY",
-    "loja": "Mercado Livre",
-    "preco": 127,
-    "precoAntigo": 299,
-    "cupom": "BLACKMELI",
-    "link": "https://produto.mercadolivre.com.br/MLB-1776426827-best-whey-900g-todos-sabores-atlhetica-nutrition-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/d51e28f7f10b2529.jpg",
-    "data": "2026-11-27T18:28:28.270Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-4034443441-tnis-hocks-flat-core-classic-black-unissex-preto-nf-_jm",
-    "titulo": "HOCKS FLAT CORE CLASSIC: O SKATE NO PÉ 🛹",
-    "loja": "Mercado Livre",
-    "preco": 180.98,
-    "precoAntigo": 309.9,
-    "cupom": "BLACKMELI",
-    "link": "https://produto.mercadolivre.com.br/MLB-4034443441-tnis-hocks-flat-core-classic-black-unissex-preto-nf-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/7ab055b364313a91.jpg",
-    "data": "2026-11-27T18:28:28.085Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/sofa-retratil-reclinavel-aconchego-230m-boucle-cinza/p/mlb46050063",
-    "titulo": "CORRE SOFAZÃO NOVO NO PREÇÃO",
-    "loja": "Mercado Livre",
-    "preco": 1269,
-    "precoAntigo": 3002,
-    "cupom": "CUPONOMOVEIS",
-    "link": "https://www.mercadolivre.com.br/sofa-retratil-reclinavel-aconchego-230m-boucle-cinza/p/MLB46050063?pdp_filters=item_id%3AMLB4015833969&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/4c963b14305249d3.jpg",
-    "data": "2026-11-27T18:27:01.714Z"
   }
 ]
