@@ -1,5 +1,82 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0bjyz5z35",
+    "titulo": "Cafe Torrado e Moido Tradicional Pouch União 500G",
+    "loja": "Amazon",
+    "preco": 3,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0BJYZ5Z35?tag=achadin022061-20",
+    "imagem": "img/bb8f75763a4b5a1b.jpg",
+    "data": "2026-11-28T01:31:14.863Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-bella-extra-soft-banho-4-pecas-azul-claroazul-marinho/p/mlb48896933",
+    "titulo": "BAIXOU AS TOALHAS BUDDEMEYER",
+    "loja": "Mercado Livre",
+    "preco": 111,
+    "precoAntigo": 229,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-bella-extra-soft-banho-4-pecas-azul-claroazul-marinho/p/MLB48896933?pdp_filters=item_id%3AMLB4038661297&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/16d109f367ca9a7f.jpg",
+    "data": "2026-11-28T01:28:58.739Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4510495424-karsten-jogo-de-banho-imperial-toalha-de-banho-branco-_jm",
+    "titulo": "CORREE, JOGO DE TOALHAS KARSTEN MUITO BARATAS",
+    "loja": "Mercado Livre",
+    "preco": 55,
+    "precoAntigo": 279,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-4510495424-karsten-jogo-de-banho-imperial-toalha-de-banho-branco-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/bc0e2002ff452e85.jpg",
+    "data": "2026-11-28T01:27:44.880Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4359093019-tnis-masculino-casual-aramis-daily-slip-confortavel-moderno-_jm",
+    "titulo": "PRA QUEM TEM PÉ TAM 39 e 40",
+    "loja": "Mercado Livre",
+    "preco": 93,
+    "precoAntigo": 339,
+    "cupom": "R3ZMELI",
+    "link": "https://produto.mercadolivre.com.br/MLB-4359093019-tnis-masculino-casual-aramis-daily-slip-confortavel-moderno-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/c7a7d191cff59db5.jpg",
+    "data": "2026-11-28T01:27:28.718Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-5130604922-tnis-adidas-adizero-drive-rc-masculino-_jm",
+    "titulo": "PREÇÃO NO ADIZERO, oferta excluvisa pagando com cartão mercado pago",
+    "loja": "Mercado Livre",
+    "preco": 409,
+    "precoAntigo": 899,
+    "cupom": "",
+    "link": "https://produto.mercadolivre.com.br/MLB-5130604922-tnis-adidas-adizero-drive-rc-masculino-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/92ab5293a5eda95a.jpg",
+    "data": "2026-11-28T01:26:00.053Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/smart-tv-43-philco-led-roku-tv-dolby-audio-ptv43va4regb/p/mlb43943869",
+    "titulo": "PREÇÃO NESSE TV 43\" PHILCO",
+    "loja": "Mercado Livre",
+    "preco": 1147,
+    "precoAntigo": 1899,
+    "cupom": "MAISBLACK",
+    "link": "https://www.mercadolivre.com.br/smart-tv-43-philco-led-roku-tv-dolby-audio-ptv43va4regb/p/MLB43943869?pdp_filters=item_id%3AMLB5517120935&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/b9ff6fed1cc64cfa.jpg",
+    "data": "2026-11-28T01:25:58.739Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/karsten-jogo-de-banho-imperial-toalha-de-banho/up/mlbu597600313",
+    "titulo": "CORREE, JOGO DE TOALHAS KARSTEN MUITO BARATAS",
+    "loja": "Mercado Livre",
+    "preco": 55,
+    "precoAntigo": 279,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/karsten-jogo-de-banho-imperial-toalha-de-banho/up/MLBU597600313?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/00c8b4524cf28b93.jpg",
+    "data": "2026-11-28T01:22:58.635Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/o-boticario-quasar-classic-desodorante-colonia-100ml/p/mlb34703216",
     "titulo": "QUASAR CLÁSSICO NO PRECINHO",
     "loja": "Mercado Livre",
@@ -3221,82 +3298,5 @@
     "link": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=achadin022061-20",
     "imagem": "img/f994f25f863ddf80.jpg",
     "data": "2026-11-27T17:32:31.534Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/liquidificador-philco-1200w-3l-12-velocidades-preto-ph900/p/mlb15578941",
-    "titulo": "LIQUIDIFICADOR PRA FAZER SEU WHEY DE PRÉ TREINO",
-    "loja": "Mercado Livre",
-    "preco": 94.9,
-    "precoAntigo": 265,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/liquidificador-philco-1200w-3l-12-velocidades-preto-ph900/p/MLB15578941?pdp_filters=item_id%3AMLB1942049788&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/9f175e29ef00e248.jpg",
-    "data": "2026-11-27T17:32:28.620Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/iphone-air-de-1tb-dourado-claro-somente-esim-distribuidor-autorizado/p/mlb1054107088",
-    "titulo": "1TB DE IPHONE AIR NO MENOR VALOR",
-    "loja": "Mercado Livre",
-    "preco": 5579,
-    "precoAntigo": 13499,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/iphone-air-de-1tb-dourado-claro-somente-esim-distribuidor-autorizado/p/MLB1054107088?pdp_filters=item_id%3AMLB5687348450&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/9a04424f6599d253.jpg",
-    "data": "2026-11-27T17:29:57.930Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/ar-condicionado-split-lg-inverter-smart-ai-12000-btus-frio-branco/p/mlb64486812",
-    "titulo": "PRECINHO NESSA AR 12K",
-    "loja": "Mercado Livre",
-    "preco": 1794,
-    "precoAntigo": 2799,
-    "cupom": "SUPEROFF",
-    "link": "https://www.mercadolivre.com.br/ar-condicionado-split-lg-inverter-smart-ai-12000-btus-frio-branco/p/MLB64486812?pdp_filters=item_id%3AMLB6755241118&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/d4881407c3b84309.jpg",
-    "data": "2026-11-27T17:26:12.460Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/acucareiro-ceramica-com-colher-e-tampa-de-bambu-oasis-preto/p/mlb63269285",
-    "titulo": "MANO É O MONITOR CURVO DA SAMSUNG",
-    "loja": "Mercado Livre",
-    "preco": 822,
-    "precoAntigo": 1499,
-    "cupom": "TECHONOMELI",
-    "link": "https://www.mercadolivre.com.br/acucareiro-ceramica-com-colher-e-tampa-de-bambu-oasis-preto/p/MLB63269285?pdp_filters=item_id%3AMLB7084421944&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/09dfa437e431979e.jpg",
-    "data": "2026-11-27T17:24:29.267Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/ar-condicionado-split-12000-btus-philco-pac12fc-eco-invert-branco/p/mlb78846584",
-    "titulo": "12K BTUS DA PHILCO VALENDO DEMAAAAAAIS",
-    "loja": "Mercado Livre",
-    "preco": 1402,
-    "precoAntigo": 2399,
-    "cupom": "SUPEROFF",
-    "link": "https://www.mercadolivre.com.br/ar-condicionado-split-12000-btus-philco-pac12fc-eco-invert-branco/p/MLB78846584?pdp_filters=item_id%3AMLB7608845540&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/1acba81372f5c33c.jpg",
-    "data": "2026-11-27T17:23:57.443Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/maquina-de-lavar-roupas-14kg-wave-agitator-branca-midea/p/mlb77290788",
-    "titulo": "14KG NO PRECINHO, esse aqui tá valendo demais",
-    "loja": "Mercado Livre",
-    "preco": 1288,
-    "precoAntigo": 2384,
-    "cupom": "SUPEROFF",
-    "link": "https://www.mercadolivre.com.br/maquina-de-lavar-roupas-14kg-wave-agitator-branca-midea/p/MLB77290788?pdp_filters=item_id%3AMLB7842881976&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/a6f07938382bd0c5.jpg",
-    "data": "2026-11-27T17:23:12.332Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/tablet-vaio-tl10-4gb-ram-64gb-ssd-4g-teclado-magnetico-android-13-camera-traseira-8mp-bateria-de-7000mah-tela-104-2k-wifi-dual-band-preto/p/mlb68834675",
-    "titulo": "TABLET PRA VIRAR NOTEBOOK NA FACULDADE E SÉRIES NO FIM DE SEMANA",
-    "loja": "Mercado Livre",
-    "preco": 1066,
-    "precoAntigo": 1925,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/tablet-vaio-tl10-4gb-ram-64gb-ssd-4g-teclado-magnetico-android-13-camera-traseira-8mp-bateria-de-7000mah-tela-104-2k-wifi-dual-band-preto/p/MLB68834675?pdp_filters=item_id%3AMLB5621215411&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/4cd94bebf4b71d6e.jpg",
-    "data": "2026-11-27T17:22:28.354Z"
   }
 ]
