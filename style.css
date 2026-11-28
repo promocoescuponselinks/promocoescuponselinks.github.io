@@ -226,3 +226,11 @@ time { font-size: .75rem; color: var(--sub); text-align: center; }
 .filtros button.ativo[data-filtro="Amazon"], [data-tema="escuro"] .filtros button.ativo[data-filtro="Amazon"] { background: var(--amz); color: var(--amz-txt); border-color: var(--amz); box-shadow: none; }
 .filtros button.ativo[data-filtro="Shopee"], [data-tema="escuro"] .filtros button.ativo[data-filtro="Shopee"] { background: var(--shp); color: #fff; border-color: var(--shp); box-shadow: none; }
 .filtros button.ativo[data-filtro="AliExpress"], [data-tema="escuro"] .filtros button.ativo[data-filtro="AliExpress"] { background: var(--ali); color: #fff; border-color: var(--ali); box-shadow: none; }
+
+/* ===== DESAPEGOS (meus anúncios) ===== */
+.loja-olx, [data-tema="escuro"] .loja-olx { background: #6e0ad6; color: #fff; }
+.grade-anuncios .card-img img { object-fit: cover; aspect-ratio: 1; width: 100%; height: auto; }
+.anuncio .selo-cupom { background: #6e0ad6; }
+.anuncio-desc { font-size: .85rem; color: var(--sub); margin: 4px 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.anuncio-local { font-size: .8rem; color: var(--sub); margin: 0 0 6px; }
+.precos .pix { display: block; font-size: .8rem; color: #1a8f3c; font-weight: 600; }
