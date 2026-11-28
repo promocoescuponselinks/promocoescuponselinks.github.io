@@ -1,5 +1,82 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0fwmxwdgw",
+    "titulo": "MENOR VALOR NESSE LAVA E SECA",
+    "loja": "Amazon",
+    "preco": 4,
+    "precoAntigo": 4669,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0FWMXWDGW?tag=achadin022061-20",
+    "imagem": "img/44950e8635136950.jpg",
+    "data": "2026-11-28T13:01:54.639Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0blt2mqy2",
+    "titulo": "VENTILADOR DE TETO INVERTER",
+    "loja": "Amazon",
+    "preco": 177,
+    "precoAntigo": 329,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0BLT2MQY2?tag=achadin022061-20",
+    "imagem": "img/6fcbc283b2c227a6.jpg",
+    "data": "2026-11-28T13:01:12.338Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/mondial-aspirador-turbo-cycle-vermelho/dp/b07jfsm214",
+    "titulo": "GOURMETIZARAM A VASSOURA",
+    "loja": "Amazon",
+    "preco": 119.49,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B07JFSM214?tag=achadin022061-20",
+    "imagem": "img/2a29b432711bdb16.jpg",
+    "data": "2026-11-28T13:01:09.616Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-ameerati-feminino-eau-de-parfum-100-ml-com-nf-lipx/p/mlb66782595",
+    "titulo": "ÁRABE PRA ELAS",
+    "loja": "Mercado Livre",
+    "preco": 35,
+    "precoAntigo": 249,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-ameerati-feminino-eau-de-parfum-100-ml-com-nf-lipx/p/MLB66782595?pdp_filters=item_id%3AMLB6472086508&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/f5913d0cb4c31c52.jpg",
+    "data": "2026-11-28T12:58:53.747Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/chinelo-masculino-havaianas-top-athletic-sandalia-original/up/mlbu5755634914",
+    "titulo": "HAVAIANAS DIFERENCIADA",
+    "loja": "Mercado Livre",
+    "preco": 39,
+    "precoAntigo": 78,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/chinelo-masculino-havaianas-top-athletic-sandalia-original/up/MLBU5755634914?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/fbd7c7bf3a9ca3f4.jpg",
+    "data": "2026-11-28T12:54:26.425Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b079vpmxhf",
+    "titulo": "CETAPHIL NO PREÇÃO",
+    "loja": "Amazon",
+    "preco": 65,
+    "precoAntigo": 109,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B079VPMXHF?tag=achadin022061-20",
+    "imagem": "img/2cff52d2a352ac69.jpg",
+    "data": "2026-11-28T12:54:24.750Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/celimax-retinal-shot-tightening-booster-15ml-pele-corean/up/mlbu3779791033",
+    "titulo": "CELIMAX PARCELADINHO",
+    "loja": "Mercado Livre",
+    "preco": 87,
+    "precoAntigo": 119,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/celimax-retinal-shot-tightening-booster-15ml-pele-corean/up/MLBU3779791033?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/8dea9f5792cf0ec4.jpg",
+    "data": "2026-11-28T12:52:08.409Z"
+  },
+  {
     "id": "https://www.amazon.com.br/dp/b0dqr35qbh",
     "titulo": "BAIXOU O KIT DA GOPRO",
     "loja": "Amazon",
@@ -3221,82 +3298,5 @@
     "link": "https://produto.mercadolivre.com.br/MLB-5256354974-tnis-fila-diffusion-masculino-original-corrida-confortavel-_JM?matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/09cc6bce9b514c7a.jpg",
     "data": "2026-11-27T18:36:31.059Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/camiseta-ess-small-puma-logo-poly-tee-masculina-puma/up/mlbu4682771966",
-    "titulo": "CAMISETA PUMA ESS: BÁSICA COM O LOGO DO FELINO",
-    "loja": "Mercado Livre",
-    "preco": 21.66,
-    "precoAntigo": 99.99,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/camiseta-ess-small-puma-logo-poly-tee-masculina-puma/up/MLBU4682771966?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/3acd5b86533a3fc3.jpg",
-    "data": "2026-11-27T18:36:28.285Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0h2b6npjb",
-    "titulo": "TEU QUINTAL TÁ VIRANDO FLORESTA JÁ",
-    "loja": "Amazon",
-    "preco": 420.1,
-    "precoAntigo": null,
-    "cupom": "IMPERDIVEL30",
-    "link": "https://www.amazon.com.br/dp/B0H2B6NPJB?tag=achadin022061-20",
-    "imagem": "img/85f9005e002b8ba5.jpg",
-    "data": "2026-11-27T18:35:14.256Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/jogo-de-panelas-10-pecas-ceramico-marmorizado-haushop/up/mlbu5138997089",
-    "titulo": "TÁ DADO ESSE JOGO DE PANELAS",
-    "loja": "Mercado Livre",
-    "preco": 163,
-    "precoAntigo": 399,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/jogo-de-panelas-10-pecas-ceramico-marmorizado-haushop/up/MLBU5138997089?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/9248fdd3fed39c91.jpg",
-    "data": "2026-11-27T18:34:29.875Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/esrb-grand-theft-auto-vi-gta-vi-ps5-fisico/up/mlbu4668245989",
-    "titulo": "GTA VI PRA QUEM TÁ SÓ NO CHEIRO",
-    "loja": "Mercado Livre",
-    "preco": 362,
-    "precoAntigo": 449,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/esrb-grand-theft-auto-vi-gta-vi-ps5-fisico/up/MLBU4668245989?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/6382b144f3395ee0.jpg",
-    "data": "2026-11-27T18:34:28.386Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-4606787273-mala-bordo-wilson-viagem-p-abs-rodinhas-removiveis-10kg-anac-vermelho-liso-_jm",
-    "titulo": "VOLTOU A MALA MAIS VENDIDA DESSA BLACK FRIDAY",
-    "loja": "Mercado Livre",
-    "preco": 35,
-    "precoAntigo": 499,
-    "cupom": "BLACKMELI",
-    "link": "https://produto.mercadolivre.com.br/MLB-4606787273-mala-bordo-wilson-viagem-p-abs-rodinhas-removiveis-10kg-anac-vermelho-liso-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/e5307a09ebe886c8.jpg",
-    "data": "2026-11-27T18:34:28.218Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/tenis-nike-ebernon-low-masculino/up/mlbu4008894707",
-    "titulo": "AIR FORCE 1 ACESSÍVEL",
-    "loja": "Mercado Livre",
-    "preco": 215,
-    "precoAntigo": 429,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/tenis-nike-ebernon-low-masculino/up/MLBU4008894707?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/14a050eea8e4c97c.jpg",
-    "data": "2026-11-27T18:33:43.546Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/relogio-life-feminino-aco-rose-rose-prateado/p/mlb68379625",
-    "titulo": "230 CONTO PRA FAZER SUA AMADA FELIZ",
-    "loja": "Mercado Livre",
-    "preco": 231,
-    "precoAntigo": 750,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/relogio-life-feminino-aco-rose-rose-prateado/p/MLB68379625?pdp_filters=item_id%3AMLB4625629839&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/4f5d3b5712c62873.jpg",
-    "data": "2026-11-27T18:31:28.062Z"
   }
 ]
