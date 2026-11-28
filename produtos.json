@@ -1,5 +1,82 @@
 [
   {
+    "id": "https://www.amazon.com.br/dp/b0h7t4ndwy",
+    "titulo": "MENOS DE 90 CONTO NO PANETTONE KOPENHAGEN",
+    "loja": "Amazon",
+    "preco": 89,
+    "precoAntigo": 160,
+    "cupom": "TAVALENDO20",
+    "link": "https://www.amazon.com.br/dp/B0H7T4NDWY?tag=achadin022061-20",
+    "imagem": "img/807397131a223bb1.jpg",
+    "data": "2026-11-28T01:00:29.799Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0dfrbwx29",
+    "titulo": "Escova Eletrica Philips Colgate Sonicpro 35 2 Unidades",
+    "loja": "Amazon",
+    "preco": 148,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0DFRBWX29?tag=achadin022061-20",
+    "imagem": "img/4b9d77d2350daf30.jpg",
+    "data": "2026-11-28T00:59:44.380Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/varal-de-chao-epsilon-3-andares-dobravel-com-rodas/p/mlb60723376",
+    "titulo": "PERFEITO PRA QUEM MORA EM AP",
+    "loja": "Mercado Livre",
+    "preco": 52,
+    "precoAntigo": 119,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/varal-de-chao-epsilon-3-andares-dobravel-com-rodas/p/MLB60723376?pdp_filters=item_id%3AMLB4468812941&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/1d6ec2465868d2c7.jpg",
+    "data": "2026-11-28T00:58:59.417Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/box-cl%25c3%25a1ssicos-william-shakespeare-marcadores/dp/b09pw8lbzd",
+    "titulo": "UM CLASSICO NÉ AMIGOS",
+    "loja": "Amazon",
+    "preco": 39.89,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B09PW8LBZD?tag=achadin022061-20",
+    "imagem": "img/7274e47c860a69aa.jpg",
+    "data": "2026-11-28T00:56:44.604Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-4072887864-camisa-levis-sunset-1-pocket-standard-lb0050024-_jm",
+    "titulo": "CAMISA SOCIAL DA LEVIS É DE RICO",
+    "loja": "Mercado Livre",
+    "preco": 118,
+    "precoAntigo": 345,
+    "cupom": "PROMOFASHION",
+    "link": "https://produto.mercadolivre.com.br/MLB-4072887864-camisa-levis-sunset-1-pocket-standard-lb0050024-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/f3ce5a0347ffb8eb.jpg",
+    "data": "2026-11-28T00:55:13.586Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/pulseira-life-coracao-em-prata-925/up/mlbu3832447252",
+    "titulo": "COMO RENOVAR SEU RELACIONAMENTO",
+    "loja": "Mercado Livre",
+    "preco": 241,
+    "precoAntigo": 590,
+    "cupom": "PROMOFASHION",
+    "link": "https://www.mercadolivre.com.br/pulseira-life-coracao-em-prata-925/up/MLBU3832447252?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/428da9f8462f954a.jpg",
+    "data": "2026-11-28T00:54:28.414Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b0hkybzrn1",
+    "titulo": "BUNDLE SWITCH 2 + FC 27 NO PRECINHO",
+    "loja": "Amazon",
+    "preco": 3519,
+    "precoAntigo": 4699,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0HKYBZRN1?tag=achadin022061-20",
+    "imagem": "img/09ee68c795b99ef5.jpg",
+    "data": "2026-11-28T00:51:48.267Z"
+  },
+  {
     "id": "https://www.amazon.com.br/bundle-nintendo-switch-ea-sports/dp/b0hkybzrn1",
     "titulo": "CORRE, VOLTOU O BUNDLE SWITCH 2 NO PREÇÃO",
     "loja": "Amazon",
@@ -3221,82 +3298,5 @@
     "link": "https://www.mercadolivre.com.br/perfume-feminino-giorgio-armani-emporio-power-of-you-eau-de-parfum-90-ml/p/MLB67373298?pdp_filters=item_id%3AMLB4864914339&matt_word=guifariass&matt_tool=11659451",
     "imagem": "img/4ed2fe18a3483f86.jpg",
     "data": "2026-11-27T17:15:45.337Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/monitor-gamer-samsung-odyssey-g5-27-qhd-165hz-cor-preto/p/mlb46056259",
-    "titulo": "ODYSSEY PARCELADINHO DESPENCOU",
-    "loja": "Mercado Livre",
-    "preco": 822,
-    "precoAntigo": 1499,
-    "cupom": "TECHONOMELI",
-    "link": "https://www.mercadolivre.com.br/monitor-gamer-samsung-odyssey-g5-27-qhd-165hz-cor-preto/p/MLB46056259?pdp_filters=item_id%3AMLB5369904562&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/c14661c6e9f913b5.jpg",
-    "data": "2026-11-27T17:15:43.812Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/mlb55232692",
-    "titulo": "O BANHO DE CETAPHIL TA GARANTIDO",
-    "loja": "Mercado Livre",
-    "preco": 78.31,
-    "precoAntigo": null,
-    "cupom": "QEQPLAMDPRASD",
-    "link": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692?pdp_filters=item_id%3AMLB4199575191&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/390bbc35475b58bf.jpg",
-    "data": "2026-11-27T17:15:42.215Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/smart-tv-hisense-hi-qled-4k-65-polegadas-com-dolby-atmos-dolby-gaming-e-alexa-65q6qv/p/mlb61855917",
-    "titulo": "CORREEEE, 65 POLEGADAS QLED NO PREÇÃO",
-    "loja": "Mercado Livre",
-    "preco": 2649,
-    "precoAntigo": 4099,
-    "cupom": "TECHONOMELI",
-    "link": "https://www.mercadolivre.com.br/smart-tv-hisense-hi-qled-4k-65-polegadas-com-dolby-atmos-dolby-gaming-e-alexa-65q6qv/p/MLB61855917?pdp_filters=item_id%3AMLB7859054362&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/eeff806fb17f65d9.jpg",
-    "data": "2026-11-27T17:13:27.267Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/perfume-masculino-aromatico-citrico-fresco-e-energizante-eau-de-toilette-polo-sport-ralph-lauren-100ml/p/mlb63184696",
-    "titulo": "MANO!! PERFUME RALPH LAUREN POR 178",
-    "loja": "Mercado Livre",
-    "preco": 178,
-    "precoAntigo": 399,
-    "cupom": "BELEZAPREMIUM",
-    "link": "https://www.mercadolivre.com.br/perfume-masculino-aromatico-citrico-fresco-e-energizante-eau-de-toilette-polo-sport-ralph-lauren-100ml/p/MLB63184696?pdp_filters=item_id%3AMLB6100181566&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/8406587893c3395c.jpg",
-    "data": "2026-11-27T17:12:28.738Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/monitor-gamer-curvo-aoc-agon-quad-34-ultrawide-wqhd-180hz-05ms-base-ajustavel-u34g4c/p/mlb61372872",
-    "titulo": "MONITOR FAVORITO DOS TUBARÕES MARTELO",
-    "loja": "Mercado Livre",
-    "preco": 1199,
-    "precoAntigo": null,
-    "cupom": "TECHONOMELI",
-    "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-aoc-agon-quad-34-ultrawide-wqhd-180hz-05ms-base-ajustavel-u34g4c/p/MLB61372872?pdp_filters=item_id%3AMLB7540101314&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/4b358cb5405074b5.jpg",
-    "data": "2026-11-27T17:11:57.136Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/kit-6-potes-vidro-hermetico-450ml-tampa-bambu-mantimentos-transparente/p/mlb74371108",
-    "titulo": "POTES DE VIDRO PRA ORGANIZAR A COZINHA COM VISUAL CHARMOSO",
-    "loja": "Mercado Livre",
-    "preco": 56,
-    "precoAntigo": 99,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/kit-6-potes-vidro-hermetico-450ml-tampa-bambu-mantimentos-transparente/p/MLB74371108?pdp_filters=item_id%3AMLB4807460385&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/39429a6f53a8981d.jpg",
-    "data": "2026-11-27T17:10:28.316Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/ar-cond-split-elgin-eco-invt-iii-wi-fi-9000-btus-frio-220v/up/mlbu5822634624",
-    "titulo": "O CALOR, TAL QUAL SUA EX, SEMPRE VOLTA",
-    "loja": "Mercado Livre",
-    "preco": 1347,
-    "precoAntigo": null,
-    "cupom": "SUPEROFF",
-    "link": "https://www.mercadolivre.com.br/ar-cond-split-elgin-eco-invt-iii-wi-fi-9000-btus-frio-220v/up/MLBU5822634624?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/d0d84f6463f03106.jpg",
-    "data": "2026-11-27T17:09:42.125Z"
   }
 ]
