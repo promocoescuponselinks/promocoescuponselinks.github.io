@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://www.amazon.com.br/ventisol-ventilador-branco-inverter-bivolt/dp/b0blt2mqy2",
+    "titulo": "SEU MELHOR AMIGO NO CALOR",
+    "loja": "Amazon",
+    "preco": 177.9,
+    "precoAntigo": null,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B0BLT2MQY2?tag=achadin022061-20",
+    "imagem": "img/c2ffedbe1936287d.jpg",
+    "data": "2026-11-28T12:31:54.277Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b08c7xythp",
+    "titulo": "17 CONTO CADA PROTETOR DE 200ML É LOUCURA",
+    "loja": "Amazon",
+    "preco": 89,
+    "precoAntigo": 490,
+    "cupom": "25OFFNIVEA",
+    "link": "https://www.amazon.com.br/dp/B08C7XYTHP?tag=achadin022061-20",
+    "imagem": "img/d771f56bbb23a4ac.jpg",
+    "data": "2026-11-28T12:31:09.577Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/aparador-de-pelos-britania-6-em-1-bape01-multigroom-cor-azul/p/mlb38480489",
+    "titulo": "RPZD! PRECINHO NO BARBEADOR 6 EM 1 DA BRITÂNIA",
+    "loja": "Mercado Livre",
+    "preco": 69.9,
+    "precoAntigo": 125.9,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/aparador-de-pelos-britania-6-em-1-bape01-multigroom-cor-azul/p/MLB38480489?pdp_filters=item_id%3AMLB5577923428&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/5c0c09b88e63af0d.jpg",
+    "data": "2026-11-28T12:30:10.842Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/fone-de-ouvido-headphone-bluetooth-60-sem-fio-premium-potente-super-bass-compativel-bateria-de-50-horas-para-iphone-samsung-xiaomi-redmi-lenovo-motorola-esportivo-caminhada-academia-cor-preto-inova/p/mlb66856732",
+    "titulo": "HEADPHONE INOVA: 50 HORAS DE GRAVE SEM PARAR 🎧",
+    "loja": "Mercado Livre",
+    "preco": 76,
+    "precoAntigo": 155.72,
+    "cupom": "M2JMELI",
+    "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headphone-bluetooth-60-sem-fio-premium-potente-super-bass-compativel-bateria-de-50-horas-para-iphone-samsung-xiaomi-redmi-lenovo-motorola-esportivo-caminhada-academia-cor-preto-inova/p/MLB66856732?pdp_filters=item_id%3AMLB6513021468&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/ad80b2ed84ab1bf3.jpg",
+    "data": "2026-11-28T12:30:08.419Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-khamrah-qahwa-unissex-100ml-com-nf/p/mlb75491401",
+    "titulo": "ESSE FAZ SUCESSO NAS ARABIAS, corre que o cupom tá esgotando",
+    "loja": "Mercado Livre",
+    "preco": 35,
+    "precoAntigo": 253,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-khamrah-qahwa-unissex-100ml-com-nf/p/MLB75491401?pdp_filters=item_id%3AMLB7303326644&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/8b1680ca1011d075.jpg",
+    "data": "2026-11-28T12:29:40.323Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-500g/p/mlb26796581",
+    "titulo": "QUEM NÃO TOMA NÃO CRESCE",
+    "loja": "Mercado Livre",
+    "preco": 32.92,
+    "precoAntigo": null,
+    "cupom": "PROMOFLASH18",
+    "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-500g/p/MLB26796581?pdp_filters=item_id%3AMLB4812143184&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/c9dcdaf8cc926b10.jpg",
+    "data": "2026-11-28T12:29:38.165Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/perfume-arabe-liquid-brun-masculino-eau-de-parfum-100ml/p/mlb81014460",
+    "titulo": "PERFUMAÇO ÁRABE, praticamente igualzinho ao marly",
+    "loja": "Mercado Livre",
+    "preco": 35,
+    "precoAntigo": 419,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/perfume-arabe-liquid-brun-masculino-eau-de-parfum-100ml/p/MLB81014460?pdp_filters=item_id%3AMLB6785016028&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/cbf5180e84afc53d.jpg",
+    "data": "2026-11-28T12:28:08.454Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/colchao-inflavel-queen-nepui-com-bomba-eletrica-e-2-travesseiros/p/mlb67290243",
+    "titulo": "PREÇÃO NO COLCHÃO INFLÁVEL QUEEN COM 2 TRAVESSEIROS + ENCHEDOR ELÉTRICO",
+    "loja": "Mercado Livre",
+    "preco": 299,
+    "precoAntigo": null,
+    "cupom": "M2JMELI",
+    "link": "https://www.mercadolivre.com.br/colchao-inflavel-queen-nepui-com-bomba-eletrica-e-2-travesseiros/p/MLB67290243?pdp_filters=item_id%3AMLB6764386730&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/1a1ca1df7aa4c355.jpg",
+    "data": "2026-11-28T12:28:08.319Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b07nq9pfkn",
+    "titulo": "MOP GIRATÓRIO PRA LIMPAR O CHÃO COM MAIS PRATICIDADE",
+    "loja": "Amazon",
+    "preco": 39.59,
+    "precoAntigo": 139,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=achadin022061-20",
+    "imagem": "img/29bed1e96436e90d.jpg",
+    "data": "2026-11-28T12:26:10.129Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/desodorante-nivea-invisible-aerosol-unidades/dp/b08nx5dkm1",
+    "titulo": "5 REAIS CADA DESODORANTE, é desodorante pro resto da vida",
+    "loja": "Amazon",
+    "preco": 103,
+    "precoAntigo": 190,
+    "cupom": "25OFFNIVEA",
+    "link": "https://www.amazon.com.br/dp/B08NX5DKM1?tag=achadin022061-20",
+    "imagem": "img/11349d311f9d33e6.jpg",
+    "data": "2026-11-28T12:24:24.732Z"
+  },
+  {
+    "id": "https://www.mercadolivre.com.br/escova-secadora-mondial-bivolt-es-02-bi/p/mlb37141751",
+    "titulo": "PREÇÃO NESSA ESCOVA SECADORA MENINAS",
+    "loja": "Mercado Livre",
+    "preco": 79.9,
+    "precoAntigo": 105.16,
+    "cupom": "",
+    "link": "https://www.mercadolivre.com.br/escova-secadora-mondial-bivolt-es-02-bi/p/MLB37141751?pdp_filters=item_id%3AMLB4163100949&matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/fc2d7253654ddbb6.jpg",
+    "data": "2026-11-28T12:24:13.046Z"
+  },
+  {
+    "id": "https://produto.mercadolivre.com.br/mlb-2182188042-calca-jeans-feminina-flare-cos-alto-empina-bumbum-modeladora-_jm",
+    "titulo": "PRECINHO NA CALÇA JEANS FLARE CINTURA ALTA PRA ELAS",
+    "loja": "Mercado Livre",
+    "preco": 44,
+    "precoAntigo": 107.65,
+    "cupom": "CLIENTETOP",
+    "link": "https://produto.mercadolivre.com.br/MLB-2182188042-calca-jeans-feminina-flare-cos-alto-empina-bumbum-modeladora-_JM?matt_word=guifariass&matt_tool=11659451",
+    "imagem": "img/5caa2134a67e38ec.jpg",
+    "data": "2026-11-28T12:24:11.729Z"
+  },
+  {
+    "id": "https://www.amazon.com.br/dp/b07dtnb6sy",
+    "titulo": "CIF PRA LIMPEZA PESADA",
+    "loja": "Amazon",
+    "preco": 11.39,
+    "precoAntigo": 22,
+    "cupom": "",
+    "link": "https://www.amazon.com.br/dp/B07DTNB6SY?tag=achadin022061-20",
+    "imagem": "img/0c1185b915dda980.jpg",
+    "data": "2026-11-28T12:24:10.152Z"
+  },
+  {
     "id": "https://www.mercadolivre.com.br/perfume-arabe-vulcan-feu-french-avenue-edp-100ml-masculino-feminino-com-nf/p/mlb80630141",
     "titulo": "INSPIRADO NO GOD OF FIRE, corre que o cupom acaba rápido",
     "loja": "Mercado Livre",
@@ -3155,148 +3298,5 @@
     "link": "https://www.amazon.com.br/dp/B0HHFPFB7T?tag=achadin022061-20",
     "imagem": "img/1a62e356baf8f67a.jpg",
     "data": "2026-11-27T18:20:29.827Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/robo-aspirador-robot-w90-varre-aspira-e-passa-pano-30w-wap-cor-preto/p/mlb19731776",
-    "titulo": "PRA QUEM PEDIU ASPIRADOR ROBÔ",
-    "loja": "Mercado Livre",
-    "preco": 220,
-    "precoAntigo": 549,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/robo-aspirador-robot-w90-varre-aspira-e-passa-pano-30w-wap-cor-preto/p/MLB19731776?pdp_filters=item_id%3AMLB5980069984&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/917d182d8372072a.jpg",
-    "data": "2026-11-27T18:20:14.215Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/electrolux-kit-6-potes-hermeticos-de-plastico-cinza-124l-safelock-empilhavel-e-modular/p/mlb66584479",
-    "titulo": "POTES DIFERENCIADOS DA ELECTROLUX",
-    "loja": "Mercado Livre",
-    "preco": 57,
-    "precoAntigo": 99,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/electrolux-kit-6-potes-hermeticos-de-plastico-cinza-124l-safelock-empilhavel-e-modular/p/MLB66584479?pdp_filters=item_id%3AMLB4649849723&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/6dfdc66eb700fa8d.jpg",
-    "data": "2026-11-27T18:19:27.991Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/pre-treino-evolution-300g-termogenico-melancia-soldiers-nutrition/p/mlb29149224",
-    "titulo": "SÓ ASSIM PRA TREINAR DIREITO",
-    "loja": "Mercado Livre",
-    "preco": 37,
-    "precoAntigo": 99,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/pre-treino-evolution-300g-termogenico-melancia-soldiers-nutrition/p/MLB29149224?pdp_filters=item_id%3AMLB3548939463&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/50e98d8d2c91505e.jpg",
-    "data": "2026-11-27T18:18:49.232Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-th-essentials-masculino-couro-marrom/up/mlbu5041416543",
-    "titulo": "319 CONTO RELÓGIO DA TOMMY",
-    "loja": "Mercado Livre",
-    "preco": 319,
-    "precoAntigo": 990,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-th-essentials-masculino-couro-marrom/up/MLBU5041416543?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/470e8b2e90c3a561.jpg",
-    "data": "2026-11-27T18:18:47.910Z"
-  },
-  {
-    "id": "https://shopee.com.br/opaanlp/1343318906/58014596373",
-    "titulo": "SAROS Edição Standard - PlayStation 5",
-    "loja": "Shopee",
-    "preco": 49,
-    "precoAntigo": null,
-    "cupom": "",
-    "link": "https://shopee.com.br/opaanlp/1343318906/58014596373?__mobile__=1&exp_group=rollout&mmp_pid=an_18328560568&utm_source=an_18328560568&utm_medium=affiliates&utm_campaign=bot",
-    "imagem": "img/5d0e5c7647a87efe.jpg",
-    "data": "2026-11-27T18:18:45.755Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/cafeteira-espresso-luna-vermelha-tres-3-coracoes/p/mlb28203060",
-    "titulo": "PRECINHO NESSA CAFETEIRA",
-    "loja": "Mercado Livre",
-    "preco": 265,
-    "precoAntigo": 720,
-    "cupom": "BLACKMELI",
-    "link": "https://www.mercadolivre.com.br/cafeteira-espresso-luna-vermelha-tres-3-coracoes/p/MLB28203060?pdp_filters=item_id%3AMLB4222485072&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/e3009167c10e1bc5.jpg",
-    "data": "2026-11-27T18:16:28.025Z"
-  },
-  {
-    "id": "ae:1005007308396145",
-    "titulo": "Pulseira de Silicone, iWatch Series 9, 8, 7, 6, 5, 4, 3, 3, SE Ultra 2 Strap, 44mm, 40mm, ",
-    "loja": "AliExpress",
-    "preco": 15.59,
-    "precoAntigo": 32.3,
-    "cupom": "",
-    "link": "https://s.click.aliexpress.com/e/_c3LRHsuD",
-    "imagem": "img/9efba8c197acd202.jpg",
-    "data": "2026-11-27T18:16:27.663Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/principia-kit-c-2-gel-de-limpeza-facial-gl-02/p/mlb55677401",
-    "titulo": "29 CONTO CADA GEL DA PRINCIPIA, tá valendo muito",
-    "loja": "Mercado Livre",
-    "preco": 58,
-    "precoAntigo": 108,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/principia-kit-c-2-gel-de-limpeza-facial-gl-02/p/MLB55677401?pdp_filters=item_id%3AMLB5687621228&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/d201a2d6cc49f076.jpg",
-    "data": "2026-11-27T18:14:58.470Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/secador-de-cabelos-motor-ac-profissional-easy-1700w-taiff-preto/p/mlb18572371",
-    "titulo": "O SECADOR DE CABELO FAMOSINHO",
-    "loja": "Mercado Livre",
-    "preco": 133,
-    "precoAntigo": 269,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/secador-de-cabelos-motor-ac-profissional-easy-1700w-taiff-preto/p/MLB18572371?pdp_filters=item_id%3AMLB3573224455&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/05e1ceeb99b4f046.jpg",
-    "data": "2026-11-27T18:14:13.015Z"
-  },
-  {
-    "id": "https://www.mercadolivre.com.br/tablet-tcl-a1-plus-122-128gb-6gb-ram-com-capa-teclado-e-caneta/p/mlb74493690",
-    "titulo": "NOVO CUPOM MERCADO LIVRE!",
-    "loja": "Mercado Livre",
-    "preco": 300,
-    "precoAntigo": 301,
-    "cupom": "",
-    "link": "https://www.mercadolivre.com.br/tablet-tcl-a1-plus-122-128gb-6gb-ram-com-capa-teclado-e-caneta/p/MLB74493690?pdp_filters=item_id%3AMLB4864313757&matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/95d85dcd8620bcd0.jpg",
-    "data": "2026-11-27T18:12:28.397Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-6861012984-olevs-5529-relogio-masculino-quartzo-aco-a-prova-dagua-_jm",
-    "titulo": "NOVO CUPOM NO MERCADO LIVRE",
-    "loja": "Mercado Livre",
-    "preco": 60,
-    "precoAntigo": 199,
-    "cupom": "BLACKMELI",
-    "link": "https://produto.mercadolivre.com.br/MLB-6861012984-olevs-5529-relogio-masculino-quartzo-aco-a-prova-dagua-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/8295f396c0699be7.jpg",
-    "data": "2026-11-27T18:11:14.176Z"
-  },
-  {
-    "id": "https://produto.mercadolivre.com.br/mlb-777356049-kit-motor-rossi-14-dz-nano-turbo-36-porto-deslizante-600kg-_jm",
-    "titulo": "NOVO CUPOM MERCADO LIVRE 🚨",
-    "loja": "Mercado Livre",
-    "preco": 70,
-    "precoAntigo": 249,
-    "cupom": "",
-    "link": "https://produto.mercadolivre.com.br/MLB-777356049-kit-motor-rossi-14-dz-nano-turbo-36-porto-deslizante-600kg-_JM?matt_word=guifariass&matt_tool=11659451",
-    "imagem": "img/db6e75e5896ff3f0.jpg",
-    "data": "2026-11-27T18:08:28.151Z"
-  },
-  {
-    "id": "https://www.amazon.com.br/dp/b0086llug8",
-    "titulo": "PRA ESTOCAR RED LABEL PRA VIRADA",
-    "loja": "Amazon",
-    "preco": 49,
-    "precoAntigo": 92,
-    "cupom": "",
-    "link": "https://www.amazon.com.br/dp/B0086LLUG8?tag=achadin022061-20",
-    "imagem": "img/7b50a64aa99ce4eb.jpg",
-    "data": "2026-11-27T18:07:29.539Z"
   }
 ]
